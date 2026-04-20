@@ -1,10 +1,10 @@
-# Bring Back the Atlantic Salmon — Communications
+# Bring Back the Atlantic Salmon Communications DRAFT
 
 Lake Ontario Atlantic Salmon Restoration Program · 2025–2029
 
 ## One-Pager Draft
 
-**[View the one-pager →](https://tomgrizz.github.io/ats-coms/project/Bring%20Back%20the%20Salmon%20One-Pager%20%E2%80%94%20DRAFT.html)**
+**[View the one-pager](https://tomgrizz.github.io/ats-coms/project/Bring%20Back%20the%20Salmon%20One-Pager%20%E2%80%94%20DRAFT.html)**
 
 ## Bundle contents
 
