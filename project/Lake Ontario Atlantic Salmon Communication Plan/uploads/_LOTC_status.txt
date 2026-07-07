@@ -1,0 +1,1665 @@
+
+
+left1009456
+
+Status of Atlantic Salmon Restoration in Lake Ontario
+
+AN UPDATE ON RESTORATION, Science, STOCKING, AND ASSESSMENt (2020-2026)00
+
+Status of Atlantic Salmon Restoration in Lake Ontario
+
+AN UPDATE ON RESTORATION, Science, STOCKING, AND ASSESSMENt (2020-2026)
+
+Prepared by: LAKE ONTARIO TECHNICAL COMMITTEE: ATLANTIC SALMON WORKING GROUP
+March 25th, 2026.
+Draft Submitted to Erin Brown and Chris Legard on March 24, 2026
+
+Members:
+Michael Connerton: michael.connerton@dec.ny.gov; 
+Zachary Eisenhauer: zachary_eisenhauer@fws.gov; 
+Kurt Heim: kurt_heim@fws.gov; 
+Ben Teskey: ben_teskey@ofah.org;
+Sarah Larocque: sarah.larocque@dfo-mpo.gc.ca;
+Christopher Weaver: christopher.weaver@ontario.ca;
+Colin Lake: colin.lake@ontario.ca;
+Michael DiSarno: michael.disarno@dec.ny.gov;
+Peter Kinney: peter.kinney@dec.ny.gov;
+Leslie Resseguie: leslie.resseguie@dec.ny.gov;
+Michael Yuille: Michael.Yuille@ontario.ca;
+Emma Bloomfield: Emma.Bloomfield@ontario.ca;
+Marc Desjardins: marc.d.desjardins@ontario.ca;
+Tim Johnson: tim.johnson@ontario.ca;
+Chris Wilson: chris.wilson@ontario.ca;
+Jennifer Smith: Jennifer.L.Smith@ontario.ca;
+Mikayla Ford: Mikayla.Ford@ontario.ca;
+Chair: Thomas Gristey: Thomas.Gristey@ontario.ca;
+
+Contents
+
+ TOC \o "1-3" \h \z \u Executive Summary	 PAGEREF _Toc225324532 \h 5
+
+	Major Impediments to Restoration	 PAGEREF _Toc225324533 \h 5
+
+	Stocking Approaches and Lessons Learned	 PAGEREF _Toc225324534 \h 5
+
+	Recommendations	 PAGEREF _Toc225324535 \h 6
+
+Purpose	 PAGEREF _Toc225324536 \h 7
+
+1. Impediments to restoration	 PAGEREF _Toc225324537 \h 7
+
+		1.1 Thiamine	 PAGEREF _Toc225324538 \h 7
+
+	Thiamine Deficiency:	 PAGEREF _Toc225324539 \h 7
+
+	Current thiamine levels:	 PAGEREF _Toc225324540 \h 8
+
+		1.2 Habitat	 PAGEREF _Toc225324541 \h 9
+
+	Ontario:	 PAGEREF _Toc225324542 \h 11
+
+	New York:	 PAGEREF _Toc225324543 \h 11
+
+		1.3 Fish Community Interactions	 PAGEREF _Toc225324544 \h 12
+
+	Lake Interactions	 PAGEREF _Toc225324545 \h 12
+
+	Tributary Interactions	 PAGEREF _Toc225324546 \h 13
+
+	Juvenile Rearing Habitat	 PAGEREF _Toc225324547 \h 13
+
+	Species Interactions and Habitat Partitioning	 PAGEREF _Toc225324548 \h 14
+
+	Competition for Spawning Habitat	 PAGEREF _Toc225324549 \h 16
+
+		1.4 Predation	 PAGEREF _Toc225324550 \h 16
+
+		1.5 Low Survival of stocked fish	 PAGEREF _Toc225324551 \h 18
+
+2. Ontario Atlantic Salmon Strategy	 PAGEREF _Toc225324552 \h 19
+
+	2.1 Lake Ontario Atlantic Salmon Program	 PAGEREF _Toc225324553 \h 19
+
+	2.1.1 Fish Production	 PAGEREF _Toc225324554 \h 19
+
+	2.1.2 Community Involvement	 PAGEREF _Toc225324555 \h 20
+
+	2.1.3 Research and Assessment	 PAGEREF _Toc225324556 \h 20
+
+	2.1.4 Habitat Enhancement	 PAGEREF _Toc225324557 \h 21
+
+3. New York Atlantic Salmon Strategy	 PAGEREF _Toc225324558 \h 22
+
+	3.1 Atlantic Salmon Fisheries Management Plan	 PAGEREF _Toc225324559 \h 22
+
+	3.1.1 Fish Culture Objectives	 PAGEREF _Toc225324560 \h 22
+
+	3.1.2 Fisheries Management Objectives	 PAGEREF _Toc225324561 \h 22
+
+	3.1.3 Research and Assessment	 PAGEREF _Toc225324562 \h 23
+
+	3.1.4 Habitat Enhancement	 PAGEREF _Toc225324563 \h 23
+
+	3.1.5 New York Atlantic salmon Management Plan Desired Outcomes	 PAGEREF _Toc225324564 \h 24
+
+4. Stocking Summary	 PAGEREF _Toc225324565 \h 24
+
+	4.1 Ontario Strains	 PAGEREF _Toc225324566 \h 24
+
+	4.1.2 Ontario Stocking Strategy	 PAGEREF _Toc225324567 \h 25
+
+	4.2 New York Strains	 PAGEREF _Toc225324568 \h 25
+
+	4.3 Great Lakes	 PAGEREF _Toc225324569 \h 26
+
+5. Recommendations for stocking, science, and collaboration	 PAGEREF _Toc225324570 \h 28
+
+	5.1 Stocking	 PAGEREF _Toc225324571 \h 28
+
+	5.2 Science and Assessment	 PAGEREF _Toc225324572 \h 29
+
+	5.3 Updating Fish Community Objectives	 PAGEREF _Toc225324573 \h 31
+
+	5.4 Collaboration	 PAGEREF _Toc225324574 \h 32
+
+6. Conclusion	 PAGEREF _Toc225324575 \h 32
+
+	Current Status Assessment	 PAGEREF _Toc225324576 \h 33
+
+	Outstanding Technical Questions:	 PAGEREF _Toc225324577 \h 33
+
+	Management Implications and Adaptive Actions:	 PAGEREF _Toc225324578 \h 33
+
+	Coordination:	 PAGEREF _Toc225324579 \h 34
+
+	Pathway to Self-Sustaining Populations:	 PAGEREF _Toc225324580 \h 35
+
+References	 PAGEREF _Toc225324581 \h 36
+
+Executive Summary
+
+Atlantic Salmon (Salmo 
+
+salar
+
+) were extirpated from Lake Ontario by the early 20th century due to overfishing, habitat degradation, sea lamprey invasion, and the establishment of alewife as a dominant prey species. Since that time, restoration efforts have progressed from exploratory stocking of multiple strains and life stages to a more focused strategy emphasizing advanced life stages, priority watersheds, and coordinated binational science. This white paper provides a science-based update on the current state of knowledge supporting Atlantic salmon restoration, evaluates Ontario and New York stocking approaches, and offers recommendations to guide binational collaboration. Current adult abundance, while still supported by stocking, has increased sufficiently to enable assessment programs capable of quantifying strain performance, life-stage survival, and movement patterns over the next 3-5 years. These emerging data will directly inform stocking production, stocking location refinement, and habitat prioritization. This document remains in draft form and is intended as a living document, providing a working synthesis to support current coordination and planning rather than a final or exhaustive review.
+
+Major Impediments to Restoration
+Five impediments continue to challenge self-sustaining population recovery. Thiamine Deficiency Complex (TDC), caused by overconsumption of thiaminase-rich alewife, results in high embryo mortality; recent field sampling in Ontario showed that more than half of returning adult females had free thiamine levels below the established EC₅₀ threshold. Degraded and disconnected habitat remains a barrier, with urbanization, instream structures, and loss of riparian cover reducing the availability of suitable spawning and nursery areas. Fish community interactions in tributaries, including competition with Chinook salmon, brown trout, and rainbow trout for habitat and food, add further pressure on juvenile and adult Atlantic salmon, though spatial niche partitioning may limit direct overlap in some systems. Predation, particularly on hatchery-reared smolts is also a likely a significant source of post-stocking mortality. Finally, historically poor survival of stocked fish, especially early life stages released in upstream locations, has constrained adult returns.
+
+Stocking Approaches and Lessons Learned
+Both Ontario and New York have shifted toward stocking advanced life stages, particularly spring and fall yearlings, at or near tributary mouths. This transition, informed by decades of experimental stocking and research in Lake Ontario and analogous systems such as Michigan and Lake Champlain, has produced higher post-stocking survival and adult returns than fry or parr stocking. The current approach of combining advanced life-stage stocking with targeted research and habitat enhancement represents a pathway forward based on available evidence from Lake Ontario and comparable systems. Recent emergence of an adult Atlantic salmon fishery at Ontario’s Lakefront Promenade and increasing south-shore adult observations signal improved performance in survival, though natural reproduction 
+
+still remains
+
+ unconfirmed.
+
+Recommendations
+The recommendations outlined in Section 5 are intended to build on current momentum and address the key uncertainties limiting restoration progress. The Working Group recommends establishing tiered milestones distinguishing short-term (fishery establishment), medium-term (consistent adult returns), and long-term (natural reproduction) objectives. Recommended actions include: (1) maintaining the shift toward spring and fall yearling production (~120,000 spring + ~20,000 fall yearlings in Ontario; 200,000 yearlings across four priority tributaries in New York); (2) addressing thiamine deficiency through supplementation and continued investigation of the Low-TT strain; (3) developing a binational Science Advisory Document to formalize research priorities around survival, restoration bottlenecks, food-web dynamics, and habitat connectivity; (4) standardizing genetic sampling and assessment protocols across jurisdictions; and (5) updating Fish Community Objectives to reflect current restoration strategies and allow adaptive management. By focusing hatchery production on fall and spring yearlings, there is an increase the probability that stocked fish survive to adulthood. By concentrating effort on priority watersheds with suitable spawning habitat and minimal passage barriers, the likelihood of natural reproduction may increase. 
+
+While natural reproduction has not yet been confirmed, but it remains theoretically achievable if thiamine deficiency, spawning habitat, survival, and competitive interactions can be simultaneously managed. Key questions remain, and it is important to use the observed increase in Atlantic salmon survival in the lake to address these uncertainties through future research. The overall priority for restoration is to develop and implement research programs that identify restoration bottlenecks and allow management and restoration goals to be refined accordingly. While many impediments remain, the coordinated efforts of OMNR, NYSDEC, USFWS, and many partners provide a strong foundation for recovery, particularly given the recent successes at Lakefront Promenade and increasing catch rates across the lake. By implementing these recommendations, the program aims not only to restore a native species to its historical home in Lake Ontario, but also to revitalize a unique recreational fishery that contributes to the biodiversity and cultural heritage of the lake.
+
+Purpose
+
+Thomas Gristey, MNR, Thomas.gristey@ontario.ca 
+The purpose of this document is to: (
+
+i
+
+) provide a science-based update on the current state of knowledge supporting Atlantic salmon restoration in Lake Ontario; (ii) strengthen binational coordination toward this long-term ecological objective; and (iii) update the Lake Ontario Committee on Atlantic salmon status. This paper is intended for use by the Lake Ontario Committee, Ontario Ministry of Natural Resources (MNR), New York State Department of Environmental Conservation (NYSDEC), Great Lakes Fishery Commission (GLFC), Ontario Federation of Anglers and Hunters (OFAH), academic partners, and other supporting agencies involved in the strategic planning, assessment, and implementation of restoration efforts. This document remains in draft form and should be treated as a living document. It does not represent a final or exhaustive review, but instead is intended to guide current discussion, coordination, and priority setting as additional information and analyses are incorporated.
+
+This work brings together existing information on major impediments to restoration, including biological and environmental constraints such as thiamine deficiency, strain considerations, habitat limitations, food-web interactions, predation, and stocking practices. It evaluates how these factors may influence post-stocking survival, adult return rates, and broader restoration outcomes. The document also compiles and summarizes current plans and strategies in both Ontario and New York, clarifying each agency’s current approach to restoration. In addition, it reviews Atlantic salmon stocking and restoration efforts in other freshwater systems, including elsewhere in the Great Lakes and in comparable systems globally.
+
+Overall, this paper is intended to support adaptive management by providing both a status update on Atlantic salmon restoration and a shared foundation to guide future monitoring, assessment, and refinement of management actions. It also outlines recommendations for further assessment, research, and collaborative science initiatives, including improved sharing of data, samples, and information among partners.
+
+1. Impediments to restoration
+
+Section 1.0 Impediments to Restoration outlines the ecological and biological challenges hindering the successful re-establishment of self-sustaining Atlantic salmon populations in Lake Ontario. Key issues discussed include the impacts of dietary thiamine deficiency (1.1), habitat limitations (1.2), interactions within the broader fish community (1.3), predation pressures (1.4), and the low survival of stocked fish (1.5).
+
+Thiamine
+
+Kurt Heim, USFWS, kurt_heim@fws.go, Thomas Gristey, MNR, Thomas.gristey@ontario.ca, Emma Bloomfield, MNR, Emma.Bloomfield@ontario.ca, Tim Johnson, MNR, Tim.Johnson@ontario.ca 
+
+Thiamine Deficiency:
+
+Dietary thiamine deficiency complex (TDC) of Atlantic salmon (Salmo 
+
+salar
+
+) in Lake Ontario poses challenging impediment to restoration of natural spawning populations. Local synonyms of TDC include Cayuga syndrome (from Cayuga Lake), Early Mortality Syndrome (EMS, term used in the Great Lakes), or M74 syndrome (in Baltic Sea salmon). In short, overconsumption of lipid and thiaminase-rich prey items, like Alewife (Alosa pseudoharengus), leads to a vitamin B1 deficiency resulting in a suite of negative effects, particularly on offspring of TDC afflicted females ​(Harder et al. 2018)​. The mechanistic link between TDC and diet is corroborated by both lab-based studies ​(Fynn-Aikins et al. 1998; Mitchell et al. 2021)​ and the fact that severity of TDC has been linked to variability in thiaminase-rich prey population variation ​(Karlsson et al. 1999; Fitzsimons et al. 2007)​. Symptoms for fry include abnormal swimming behavior, enlarged large yolk-sacs, yolk-sac hemorrhaging, lethargy, and ultimately death ​(Fisher et al. 1995a, 1995b, 1995a)​. While symptoms may also be present in adults (e.g., reduced swimming performance, see Harder et al. 2018 for review), most investigations focus on effects on fry owing to the substantial negative population-level effects of recruitment failure. Indeed, Ketola et al. (2020) suggest that TDC may have been one of the factors contributing to the extirpation of Atlantic salmon in Lake Ontario in the late 1800s. 
+
+From a management perspective, removal of Alewife (or some other form of manipulating the causative prey items) is unfeasible, therefore general approaches to overcome this issue have involved (1) thiamine supplementation to adult females, eggs, or fry and (2) Atlantic salmon strain selection for potentially TDC-tolerance. Thiamine supplementation is generally effective at reducing TDC induced fry mortality but requires capturing and handling migratory adults ​(Fitzsimons et al. 2005)​ or is limited to work in a hatchery setting. Furthermore, supplementation does not address the root issue and may limit an evolutionary response to TDC ​(Harder et al. 2024)​. If there is heritable genetic variation related to TDC tolerance (e.g., among individuals) then supplementation prevents natural selection from increasing adaptive allele frequency via evolutionary rescue ​(Carlson et al. 2014)​. It is possible that certain strains of Atlantic salmon are naturally more TDC tolerant than others due to genetic background ​(Mitchell et al. 2021)​. Mitchell et al. (2021) however, did not find support for this hypothesis when evaluating three potential source strains for stocking in Lake Ontario (Sebago, 
+
+LaHave
+
+, St. Jean). One possibility is that this study did not find differences among strains in offspring survival because egg thiamine concentrations were only reduced (via an experimental feed) to 11 nmol/g, which is not low enough to induce severe TDC. Work on Lake Trout provides stronger evidence for the potential for TDC adaptation via a decrease in thiamine utilization rates during incubation (Fitzsimons et al., 2021). 
+
+Additionally, recent work in Lake Champlain also suggests the ‘genetic adaptation’ approach may be possible, as there appears to be among-family variation in TDC tolerance within the Sebago strain ​(Harder et al. 2020)​. Harder et al. (2020) identified among-family variation in offspring survival of TDC afflicted females and identified ~1,400 putatively adaptive genes via RNA sequencing. This study also produced the first estimates of total thiamine concentration needed for 50% and 25% survival to the fry stage (EC50 and EC25, respectively) for landlocked Atlantic salmon: 5.45 nmol/g and 2.89 nmol/g, respectively. Following on this work the USFWS in Vermont has developed a putatively TDC-tolerant broodstock, by using survival trials to identify TDC-tolerant families to use as founders. Two broodstocks are maintained (a TDC-tolerant and a control with higher genetic diversity) and used for gamete production at White River National Fish Hatchery. The USFWS is engaged in evaluating these two alternative broodstocks for TDC tolerance in both field and laboratory settings, and some of these fish were stocked into in Lake Ontario. 
+
+Current thiamine levels:
+
+Recently, the MNR has been able to sample Atlantic salmon adults returning to tributaries on the north shore of Lake Ontario, providing the opportunity to determine thiamine concentrations in a field setting with returning adults spending a year or more in the lake. Unfertilized eggs were collected and analyzed for thiamine concentration as SUNY Brockport, following Brown et al. (1998), with modifications from Futia et al. (2017). Total egg thiamine concentrations from 2023–2024 ranged from 1-22.8 nmol/g, with most individuals falling below the EC50 (5.46 nmol/g; Harder et al. 2020) and therefore at elevated risk of TDC. However, 9 of 36 individuals exceeded the EC50, suggesting significant variability in returning adults sampled at Lakefront Promenade. Values for free thiamine (TH) ranged from .14 to 19.6 nmol/g, with 2/8 and 18/24 individuals in 2023 and 2024, respectively, exceeding the EC50 developed for TH (0.87 nmol/g) (
+
+K.Heim
+
+, unpublished analysis).  This variability raises important questions, such as if thiamine concentrations differ between strains (including the TDC-tolerant strain) in the wild.  In Lake Champlain, within year and across year variation in egg thiamine is common; however, there has been a marked decline in THH and TH since 2019. In 2024, the lowest values on record were reported (THH: mean = 1.58, range = 0.88 – 3.2, TH: mean = 0.47, range = 0.12 – 1.86).  Moving forward, additional testing of egg thiamine concentrations, combined with stable isotope and diet analyses, could help differentiate among nutritional pathways, prey, and the physiological mechanisms underlying the observed variation in thiamine levels of captured Atlantic salmon.
+
+Habitat
+
+Ben Teskey, OFAH, ben_teskey@ofah.org, Thomas Gristey, MNR, Thomas.gristey@ontario.ca, Zachary Eisenhauer, FWS, zachary_eisenhauer@fws.gov
+Atlantic salmon require high-quality lotic habitats to support successful spawning and juvenile development. Suitable streams are typically characterized by cool, well-oxygenated, and transparent waters, moderate channel gradients, and substrates composed primarily of gravel, cobble, and boulders (COSEWIC, 2006). The extirpation of the Lake Ontario population of Atlantic salmon is largely attributed to extensive habitat degradation and unsustainable exploitation (COSEWIC, 2006). Key anthropogenic factors contributing to this decline include deforestation, wetland drainage, water pollution, and the construction of dams, which collectively disrupted essential ecological conditions necessary for the species’ persistence.
+
+Deforestation and agricultural land conversion have significant hydrological and thermal consequences for stream ecosystems. These activities reduce streamflow and decrease canopy cover, leading to elevated water temperatures (Dymond et al., 2019). Tree roots play a crucial role in stabilizing streambanks by binding the soil, and their removal often results in increased erosion and widening of the stream channel. Additionally, riparian trees contribute vital nutrients to aquatic ecosystems through the deposition of leaves and twigs, which serve as a primary food source for various aquatic invertebrates that, in turn, are an important prey item for juvenile Atlantic salmon. Furthermore, fallen trees, branches, and trunks provide critical structural habitat, influencing stream flow patterns and enhancing habitat complexity.
+
+Wetlands deliver a wide array of critical ecosystem services, including the regulation of water tables, which mitigates flooding, drought conditions, and erosion. They also enhance water quality through natural filtration processes and provide essential habitat for a variety of species (
+
+Penfound
+
+ & Vaz, 2022). Since European settlement, over 72% of wetlands in southern Ontario have been lost, leading to significant ecological consequences (Ontario Nature, 2025). In addition to their hydrological and biodiversity functions, wetlands play a pivotal role in climate change mitigation by sequestering greenhouse gases, particularly carbon dioxide, thereby reducing atmospheric concentrations of these climate-active compounds (Ontario Ministry of Natural Resources and Forestry, 2017). While Lake Ontario Atlantic salmon may not depend directly on wetland habitats, their typical location (river mouth / lake-river interface) and breadth of provided ecosystem services mean degradation or loss is likely to influence how Atlantic Salmon navigate between lake and river environments and food webs, especially at vulnerable life stages like 
+
+smolting
+
+ (Thorstad et al. 2012). Ultimately their loss/degradation can further exacerbate other concerns which more directly impact survival and restoration success.  
+
+Historically, pollutants such as agricultural runoff, sawdust from sawmills, tanbark, and lime degraded stream water quality, negatively affecting Atlantic salmon populations. In contemporary contexts, urban and industrial activities have introduced new pollutants, including petrochemicals from urban runoff, industrial effluents, and litter. Litter poses a dual threat, both through direct toxicity and the potential for physical entanglement. While pollutants may be diluted in large volumes of water and not immediately harmful to fish, their effects can become significantly more detrimental during periods of low water flow, when concentrations increase (Dymond et al., 2019). Furthermore, many chemical pollutants adversely affect aquatic invertebrates, disrupting the lower trophic levels of the food web that are crucial for the survival of juvenile salmon.
+
+Habitat accessibility and connectivity is a critical determinant for the successful completion of the Atlantic salmon life cycle. Human-induced instream barriers, such as dams and weirs, were significant contributors to the extirpation of the species from Lake Ontario. These barriers continue to pose a major impediment to the recovery and restoration of Atlantic salmon populations (Borggaard et al., 2019). The mitigation of these barriers is complex, requiring careful consideration of species partitioning, including the management of invasive species, as well as legal and ownership issues related to barrier infrastructure (Glass, 2010). International case studies from Saimaa, 
+
+Vänern
+
+, and 
+
+Meelpaeg
+
+ Lake reinforce that habitat connectivity and quality are critical to landlocked salmon recovery; supportive stocking only produced lasting gains once key spawning and nursery habitat was restored or reconnected above hydropower barriers.
+
+From their initial establishment in Lake Ontario until their extirpation, Atlantic salmon coexisted with North American beavers (Castor canadensis). Beavers are considered ecosystem engineers, profoundly influencing hydrological, geomorphological, and ecological processes (Brazier et al., 2021). The historical suppression of beaver populations through fur harvesting and land-use changes may have had adverse implications for Atlantic salmon. Research involving simulated beaver analogs has demonstrated positive effects on the spawning and juvenile rearing habitats of rainbow trout (Oncorhynchus mykiss) (
+
+Bouwes
+
+ et al., 2016). Beaver-related modifications to stream environments may similarly benefit Atlantic salmon.
+
+Urban land development induces substantial alterations to river channel morphology and hydrological function (Ashmore et al., 2023). Streams serve as conduits for runoff, thermal inputs, and sediment transport from their surrounding watersheds, rendering them highly susceptible to anthropogenic disturbances, particularly urbanization (Nelson et al., 2009). The impacts of urbanization can be exacerbated by climate change and the absence of riparian vegetation, all of which can influence whether the habitat is suitable to support Atlantic salmon. Conservation of juvenile Atlantic salmon requires restoring and maintaining three key habitat attributes: structural complexity, groundwater influence, and low streambed embeddedness. Increasing physical complexity through large wood additions, variable substrates, and reconnection of side channels improves cover, feeding efficiency, and refuge availability. Protecting and enhancing groundwater inputs is equally critical, as it stabilizes temperatures and flows, creating thermal refugia essential for juvenile survival. Finally, reducing fine‑sediment loading is necessary to prevent embeddedness, which eliminates critical interstitial shelter and suppresses macroinvertebrate prey production. Management actions should therefore prioritize watershed‑scale erosion control, riparian restoration, and stormwater mitigation to reduce sediment delivery. Combined with targeted in‑stream restoration, these actions increase resilience by ensuring that structural habitat improvements are not undermined by sedimentation and that cold‑water inputs remain functional. Implementing this integrated approach will strengthen juvenile salmon survival, support population recovery, and improve long‑term habitat stability across priority stream reaches.
+
+Ontario:
+
+In 2016, the Lake Ontario Atlantic Salmon Restoration Program Habitat Committee created a Phase 3 Habitat Plan (2016 – 2020) the objective to identify habitat need/gaps, define stream reaches by function (i.e. migration corridor, spawning/nursery habitat) and prioritize potential habitat projects within each watershed to provide direction for future restoration efforts. This plan is currently being updated by the Habitat Committee members. Building on the Phase 3 Habitat Plan, the Habitat Committee developed in 2022 a Fish Passage Status Report for Bronte Creek, 16-Mile Creek, Credit River, Humber River, 
+
+Duffins
+
+ Creek, 
+
+Ganaraska
+
+ River, and Cobourg Brook. The purpose of this document is to: Account for the present status of fish passage as it relates to habitat connectivity between Lake Ontario and several of its watersheds for all life stages of Atlantic salmon; Document the potential watershed habitat gains through the mitigation of existing fish passage barriers; Provide site specific details for each fish passage related structure and document previous fish passage projects.
+
+Landscape salmonid habitat characteristics on the north shore of Lake Ontario was summarized by Stanfield, Gibson and Borwick in 2006. Although Stanfield et al. (2006) did not model Atlantic salmon directly, their results are highly relevant to Atlantic salmon restoration because they identified the watershed-scale conditions that structure salmonid habitat quality across Lake Ontario tributaries. Their analysis showed that percent impervious cover (a measure of watershed development that captures the extent of surfaces and land uses that reduce infiltration and increase runoff), base flow index, drainage area, and barriers to fish access were among the strongest predictors of salmonid distribution, with salmonids generally predicted to be absent once impervious cover exceeded approximately 6.6–9%. They also highlighted the importance of groundwater-supported systems associated with the Oak Ridges Moraine and Niagara Escarpment, which help maintain cold water conditions in headwaters. Importantly, Stanfield and Jones (2003) provided species-specific support for these broader patterns by showing that juvenile Atlantic salmon could be successfully reared in north shore Lake Ontario tributaries, with parr stocking outperforming fry stocking and higher densities occurring in habitats with abundant rock cover. Their study further found that rainbow trout could reduce Atlantic salmon performance, particularly for fry, but that high-quality habitat with abundant rock cover could support higher densities of both species, suggesting that habitat condition can mediate competitive interactions. These studies indicate that Atlantic salmon restoration will depend not only on reconnecting habitat and protecting groundwater-supported cold-water systems at the watershed scale, but also on maintaining or restoring higher-gradient, rock-dominated juvenile rearing habitat that can improve survival in the presence of other salmonids
+
+New York:
+
+Historic evaluations of Lake Ontario’s Atlantic salmon indicate that by the late 19th century, once pristine tributaries had been profoundly degraded by deforestation, agricultural expansion, industrial pollution, and widespread dam construction that blocked access to essential spawning and juvenile rearing habitats. Although these legacies still shape the south shore today, notable contrasts have emerged: forested, groundwater fed tributaries such as Orwell Creek and Trout Brook in the Salmon River watershed continue to provide cool, complex, low embeddedness habitat that support higher juvenile survival, while lower gradient agricultural systems like Oak Orchard Creek and Sandy Creek (Orleans County) remain hindered by sedimentation, hydrologic flashiness, and simplified channels. Importantly, headwater and mid river 
+
+reaches
+
+ with strong groundwater discharge now represent some of the highest quality habitat in the basin and offer promising focal areas for future recolonization. At the same time, coordinated restoration efforts are steadily rebuilding ecological complexity through barrier mitigation, riparian recovery, sediment reduction projects, and improved identification of groundwater dependent reaches. Together, these initiatives are helping tributaries move closer to their historic potential and are creating an increasingly realistic and optimistic pathway toward long term recolonization and a resilient Lake Ontario salmon population.
+
+Fish Community Interactions
+
+Lake Interactions
+
+Emma Bloomfield, MNR, emma.bloomfield@ontario.ca 
+Atlantic salmon in Lake Ontario are part of a larger community of salmonids that has changed over time. By the mid 1900’s, populations of large piscivorous species, including Atlantic salmon and lake trout (Salvelinus 
+
+namaycush
+
+), had collapsed due to overfishing, habitat degradation, and invasive species, primarily sea lamprey (Petromyzon marinus) and alewife (Alosa pseudoharengus) (Christie 1972, Mills et al. 2003, Dymond et al. 2019). Starting in the late 1960’s, non-native Pacific salmonids, including Chinook salmon (Oncorhynchus tshawytscha), rainbow trout (O. mykiss), and coho salmon (O. kisutch),) and European brown trout (Salmo trutta), were stocked to control overabundant alewife and create recreational fisheries (Owens et al. 2003). Pacific salmonid stocking, along with lake trout stocking, sea lamprey control, and the Great Lakes Water Quality Agreement, re-established a salmonid community and profitable fishery (Mills et al. 2003, Owens et al. 2003). However, the salmonid community is now dominated by non-native Pacific salmon posing a challenge for Atlantic salmon restoration .  
+
+Adult Atlantic salmon and other salmonids are mobile top predators in Lake Ontario. This is a key role in the fish community because it promotes food web stability (McCann et al. 2005, Ives et al. 2019). Atlantic salmon move long distances, between eastern and western Lake Ontario and binationally (Larocque et al. 2022b). They occupy a trophic level 4, with a diet dominated by alewife (Mumby et al. 2018, Larocque et al. 2022a). However, Atlantic salmon’s dependence on alewife is largely shared with the rest of the salmonid community, leading to similar trophic niches, although to a lesser extent with lake trout because of their more diversified diet (Mumby et al. 2018, Larocque et al. 2022a). Given the shared dominance of alewife, decisions about the number of Pacific salmon stocked (particularly of Chinook salmon because of their higher annual growth rates and predation pressure on alewife; Fitzpatrick et al., 2022) will likely impact the amount of prey available for Atlantic salmon and thus the amount of energy that can be allocated to growth and reproduction. This is especially notable as alewife consumption contributes to thiamine deficiency, leading to lower survival and reproductive failure (see Thiamine Deficiency section, Ketola et al., 2000). The negative impacts of a diet high in alewife and potential competition highlight the importance of efforts to diversify the prey base through 
+
+coregonine
+
+ restoration.  
+
+In the nearshore lake environment, Atlantic salmon and other juvenile salmonids have a diet dominated by Diptera, and at >200 mm, they start incorporating small prey fish (Nawrocki et al. 2022). However, community interactions in the main lake as juveniles are largely unknown.
+
+Tributary Interactions
+
+Thomas Gristey, MNR, Thomas.gristey@ontario.ca
+In tributaries, Atlantic salmon interact with a fish community that is now very different from the one that existed historically, and these interactions likely represent an important impediment to restoration. Below barriers in Lake Ontario tributaries, rainbow trout are the dominant resident salmonid, brown trout are common in cooler pool habitats with wood cover, coho salmon occur in backwater pools, and Chinook salmon have begun reproducing in some systems. As a result, restoration success depends not only on whether habitat is present, but also on whether Atlantic salmon can successfully rear, overwinter, and reproduce in tributaries already occupied by other salmonids (Stanfield and Jones 2003; Biette et al. 1981; Hearn and Kynard 1986).
+
+At the juvenile stage, there is evidence for both habitat partitioning and competition. In Lake Ontario tributaries, juvenile Atlantic salmon and rainbow trout show substantial dietary overlap, while Atlantic salmon and Chinook salmon appear to have lower diet similarity and more limited temporal overlap in streams (Coghlan et al. 2007; Johnson and Waldt 2014; Johnson et al. 2017; Johnson and 
+
+Chalupnicki
+
+ 2014). Rainbow trout and brown trout can reduce Atlantic salmon performance, particularly when habitat is limited, and brown trout may dominate winter refuge spaces such as rocky crevices under low-flow conditions (
+
+Heggenes
+
+ et al. 1996; Houde et al. 2015a, 2015b, 2016; Van 
+
+Zwol
+
+ et al. 2022). However, habitat quality strongly mediates these interactions: in north shore tributaries, Stanfield and Jones (2003) found that high-quality habitat with abundant rock cover could support higher densities of both Atlantic salmon and rainbow trout, suggesting that habitat partitioning can lessen the negative effects of competition (Stanfield and Jones 2003; Fausch 1998). Prior residency from other salmon species may also influence competitive outcomes, as resident fish can outperform challengers regardless of species (Volpe et al. 2001).
+
+Competition may also occur during spawning. Atlantic salmon spawning habitat overlaps with that of other fall-spawning salmonids, particularly brown trout, and likely also Chinook and coho salmon, creating the potential for direct competition for access to preferred spawning sites (Louhi et al. 2008; Gibson 1993; Johnson et al. 2010). In tributaries where these species are abundant, Atlantic salmon may be disadvantaged because they are less numerous and may also be less aggressive than competing salmonids (
+
+Höjesjö
+
+ et al. 2005; Scott et al. 2003). There is also evidence of behavioural interference: in the presence of Chinook salmon pairs, Atlantic salmon delayed nest establishment and experienced higher mortality, and Chinook, coho, and brown trout have all been observed interacting with spawning Atlantic salmon in ways that could reduce spawning efficiency (Scott et al. 2003, 2005). These finds are also supported by anecdotal recorded behavior movements through the fishways at the 
+
+Ganaraska
+
+ and Credit Rivers, where Chinook outnumber and actively push through returning Atlantic salmon during fall spawning runs. Collectively, these findings suggest that tributary interactions may constrain Atlantic salmon restoration not only during juvenile rearing, but also by reducing spawning success in mixed-species tributaries.
+
+Juvenile Rearing Habitat 
+
+Michael Connerton, NYDEC, michael.connerton@dec.ny.gov
+
+Juvenile salmonids in Lake Ontario tributaries exhibit species-specific habitat preferences that vary with age, season, and species (Johnson, 2008; Johnson, 2013; Houde et al., 2016). Understanding these preferences is critical for assessing the potential for competition. Compared with other salmon and trout, sub-yearling and yearling Atlantic salmon generally prefer deeper, faster-flowing riffles with coarse substrate (cobble to boulder, 50–200 mm) and moderate cover (20–40%), especially in summer (Johnson, 2013; Johnson, 2008). In South Sandy Creek, a tributary to Lake Ontario, sub-yearlings were observed in fast riffles with mean velocities of 0.5–0.8 m/s and substrate sizes of 60–150 mm (Johnson, 2013). Diets consisted mainly of benthic insects like trichopteran larvae and chironomids, with some terrestrial invertebrates (Johnson et al., 2017). Habitat shifts in fall moved fish into slightly deeper, faster habitats (Johnson, 2013). Juvenile rainbow trout often occupies deeper pools and runs with moderate velocity (0.2–0.5 m/s), large substrate (50–150 mm), and 25–40% cover, particularly in winter (Johnson & Douglass, 2009). Diel habitat shifts are common, with fish using slower water and less exposed substrate at night (Houde et al., 2016). Rainbow trout feeding relies more on drifting invertebrates compared to Atlantic salmon (Johnson & McKenna, 2015). Conversely, brown trout juveniles select slow pools and run habitat with moderate to high cover (30–50%) and slightly smaller substrate from 30–120 mm (Houde et al., 2016). Habitat use overlaps with rainbow trout in some tributaries, although brown trout tend to feed from drifting prey more than benthic prey (Johnson & McKenna, 2015). Seasonal differences show more usage of pools in winter and shallow runs in summer (Johnson, 2008). Most notably, sub-yearlings of Chinook and Coho salmon typically occupy shallow pools and glides with low to moderate velocity (0.1–0.4 m/s), smaller substrate (10–60 mm), and 15–30% cover (Johnson, 2013). Chinook can share habitat with Atlantic salmon in riffles, while coho occupy slower pools, reducing direct competition (Houde et al., 2016; Johnson, 2013). Diets include both benthic and drifting aquatic insects (Johnson et al., 2017). Juvenile brook trout show seasonal habitat shifts. Sub-yearlings use moderate-depth runs with 20–30% cover in summer, while over-yearlings occupy deeper pools with 35–50% cover in winter (Johnson, 2008; Johnson & Douglass, 2009). Feeding strategies vary they consume a mix of benthic and drifting invertebrates depending on season and habitat (Johnson et al., 2017).
+
+All species display seasonal changes in habitat selection: Atlantic salmon and steelhead move to deeper, faster waters in fall; brook trout and rainbow trout shift to deeper pools with higher cover in winter (Johnson, 2008; Houde et al., 2016; Johnson & Douglass, 2009). Diel shifts involve day-night differences in velocity, depth, and substrate use (Houde et al., 2016; Johnson & McKenna, 2015).
+
+Species Interactions and Habitat Partitioning
+
+Studies in Lake Ontario tributaries reveal niche partitioning among juvenile salmonids. Atlantic salmon select fast riffles, rainbow trout select large substrate with moderate flow, brown trout prefer slow runs and pools, and Chinook and coho salmon select shallow glides or pools (Johnson & McKenna, 2017; Houde et al., 2016). Diet partitioning can further reduce competition. For example, Atlantic salmon feed more benthically, whereas rainbow and brown trout feed more from the drift (Johnson et al., 2017). However, stable isotopes showed Atlantic salmon and brown trout juveniles had significant trophic overlap in Lake Ontario tributaries yet with availability of resources and higher stocked population of Atlantic salmon, it reduced any potential competition between the two species (Larocque et al., 2021).  In South Sandy Creek, Atlantic salmon used riffles with velocities of 0.5–0.8 m/s and substrate 60–150 mm (Johnson, 2013) and diets consisted of benthic insects (Johnson et al., 2017). In Hart Brook: Sub-yearling Atlantic salmon occupied riffles and brook trout occupied deep pools (Johnson, 2008). Juvenile steelhead select faster flows than brook trout (Johnson & McKenna, 2015).
+
+Where quality habitat exists below barriers in New York's Lake Ontario tributaries, juveniles of each of these species comprise most of the salmonid population both by numbers and biomass (Johnson, 2014; McKenna & Johnson, 2005). Although Van 
+
+Zwol
+
+ et al. (2012a) concluded that Atlantic salmon would not negatively impact rainbow trout (steelhead), Dietrich et al. (2008) reported evidence that Atlantic salmon may impact juvenile rainbow trout abundance in Lake Ontario tributaries. Conversely, Coghlan et al. (2007) found that the presence of juvenile rainbow trout and juvenile coho salmon had no effect on the survival of Atlantic salmon, but growth rates were reduced in tributaries depending on temperature. The presence of rainbow trout or coho salmon negatively affected growth in colder streams and Atlantic salmon growth was favored in warmer streams. Johnson (2016) observed that 
+
+subyearling
+
+ rainbow trout will shift to areas with slower water velocities in the presence of Atlantic salmon. Studies examining interspecific feeding associations between juvenile Atlantic salmon and juvenile rainbow trout in the Lake Ontario basin have shown a high degree of diet similarity (Coghlan et al. 2007) and that in the presence of Atlantic salmon, 
+
+subyearling
+
+ rainbow trout shift to a more drift feeding pattern (Johnson & Waldt, 2014). 
+
+Subyearling
+
+ Atlantic salmon and 
+
+subyearling
+
+ Chinook salmon had significantly different diets during each of the three time periods examined. Atlantic salmon fed slightly more from the benthos than from the drift and consumed mainly 
+
+chirononmids
+
+ (47.0%) and ephemeropterans (21.1%). 
+
+In a study by Johnson et al (2017), the diet of 
+
+subyearling
+
+ Chinook salmon was more closely associated with the drift and consisted mainly of chironomids (60.2%) and terrestrial invertebrates (16.0%). Low diet similarity between 
+
+subyearling
+
+ Atlantic salmon and 
+
+subyearling
+
+ Chinook salmon likely minimizes competitive interactions for food between these species in Lake Ontario tributaries. However, the availability of small prey such as chironomids which comprise over 50% of the diet of each species, soon after emergence, could constitute a short-term resource limitation (Johnson et al 2017). Johnson and 
+
+Chalupnicki
+
+ (2014) concluded that among the four species, the habitat used by 
+
+subyearling
+
+ Chinook salmon was most like Atlantic salmon. These authors noted the limited temporal overlap (early May to late June) when these species would co-occur in streams, since 
+
+subyearling
+
+ Chinook salmon out-migrate by the end of June. However, because the abundance of wild Chinook salmon juveniles is increasing in Lake Ontario tributaries, Stanfield and Jones (2003) suggested that Chinook salmon may threaten Atlantic salmon reintroduction efforts. During low-flow winter conditions, juvenile Atlantic salmon and brown trout compete intensely for limited refuge spaces such as rocky crevices—Brown trout often dominate, disadvantaging salmon survival (
+
+Heggenes
+
+ et al., 1996).
+
+Brown trout juveniles were the most dominant and had the greatest growth rate regardless of what other species were present in streams. Rainbow trout were more dominant than Atlantic salmon and consumed the most food of the three species. However, in the presence of Brown trout, Rainbow trout fed less frequently and exhibited negative growth as compared to when the Rainbow trout were present with only Atlantic salmon (Van 
+
+Zwol
+
+ et al 2022). Artificial stream and natural stream studies show juvenile brown and rainbow trout significantly suppress growth, condition, and survival of Atlantic salmon, while Chinook and coho have minimal effects (Houde, Wilson, & Neff, 2015a; Houde et al., 2015b; Houde et al., 2016). In British Columbia, juvenile steelhead and Atlantic salmon showed that resident individuals outperformed challengers, regardless of species—highlighting the importance of prior residency in competitive outcomes (Volpe, Anholt, & Glickman, 2001).
+
+Another potential species that may impact Atlantic salmon (through predation) is smallmouth bass (Micropterus 
+
+dolomieu
+
+). Because the two species tended to favor different habitat types and displayed different diel activity patterns, we suggest that under the conditions tested, the level of interspecific competition for habitat is low. Age-0 Atlantic salmon and Smallmouth bass may be able to avoid intense interspecific competition through spatial and temporal habitat partitioning (Wathen et al 2012).
+
+Competition for Spawning Habitat 
+
+Sarah Larocque, DFO, sarah.larocque@dfo-mpo.gc.ca 
+
+There is some potential for Atlantic salmon to compete with other salmonids directly for spawning habitat or compete to reach or gain access to spawning habitat in Lake Ontario tributaries. Fall spawning salmonids include Atlantic salmon, Chinook salmon (
+
+Oncorhychus
+
+ tshawytscha), coho salmon (Oncorhynchus kisutch), brown trout (Salmo trutta). If there were overlap between these species in preferred spawning habitat or limited sites, it could cause competition for spawning habitat due to the overlap in timing. The spawning habitat for Atlantic salmon and brown trout overlap a fair bit with subtle differences. Atlantic salmon spawned mostly in relatively deep, swift-velocity habitats (20–50 cm, 35–65 cm s-1), whereas brown trout selected slightly shallower and slower ﬂowing spawning sites (15–45 cm, 20–55 cm s-1; Louhi et al., 2008; Gibson 1993). Atlantic salmon and brown trout both preferred pebbles (16–64 mm) for spawning. In the Salmon River, NY, a tributary of Lake Ontario, brown trout spawned in shallower, slower flowing spawning sites than Chinook salmon and coho salmon (Johnson et al., 2010). By inference, Atlantic salmon spawning habitat seems 
+
+similar to
+
+ and would likely overlap with Chinook and coho salmon, as well as in part with brown trout, as no studies directly compare spawning habitat competition across all these species. However, this suggests that in rivers like the Salmon River, interspecific competition for spawning sites is likely occurring due to the large number of spawning fish targeting similar habitat at the same time of year. If broadly considering the typical proportion of salmonids in the lake, then Atlantic salmon with the lowest population numbers would have a harder time accessing preferred spawning habitat and successfully spawning, impeding their restoration. 
+
+From a behavioural standpoint, other salmonids could also indirectly impact the ability of Atlantic salmon to successfully spawn in tributaries. In the presence of Chinook salmon pairs, Atlantic salmon delayed nest establishment and had higher mortality rates during fall spawning in a Lake Ontario tributary (Scott et al., 2003). When other fall spawning salmonids are in the area, even if not using the same habitat and directly competing, it can trigger aggressive behaviour and waste energy crucial for reproduction. Scott et al. (2005) found that Chinook salmon, coho salmon and brown trout interacted with spawning Atlantic salmon when in the same stream. Chinook salmon interacted the most with Atlantic salmon and were observed trying to court female Atlantic salmon in some instances, which could potentially impede successful spawning of Atlantic salmon. In this case, Atlantic salmon were released into a stream with other salmonids (after peak Chinook salmon spawning) and may not represent what would occur when large numbers of all species were present. Another impact to successful spawning would be the less aggressive nature of Atlantic salmon, particularly if smaller, compared to Chinook salmon or brown trout (
+
+Höjesjö
+
+ et al., 2005; Scott et al., 2003). This could reduce the success of Atlantic salmon gaining higher quality spawning habitat when other salmonids are in the same stream. Although there are not many studies of competition between Atlantic salmon and other salmonids for spawning habitat, due to the overlap in spawning habitat preferences, lower numbers and less aggressive nature compared to others, Atlantic salmon are likely negatively impacted by spawning habitat competition in Lake Ontario tributaries. 
+
+Predation
+
+Tim Johnson, OMNR, tim.johnson@ontario.ca 
+
+In freshwater, every life stage of Atlantic salmon except adult is vulnerable to predation. In a literature review through 1996, Mather (1998) noted 11 of 14 quantitative field studies on Atlantic salmon concluded predation was an important source of mortality. More recently, Thorstad et al. (2012a) reviewed the literature on Atlantic salmon in streams, and concluded predation is the largest source of natural mortality. As the salmon grows it becomes less vulnerable, although the smolt stage is exceptionally vulnerable due to migration bottlenecks (Mather 1998; Thorstad et al. 2012a; Kennedy et al. 2018; Daniels et al. 2019; 
+
+Falkegård
+
+ et al. 2023). Most mortality occurred within 2 weeks of emergence from 
+
+redd
+
+ (
+
+Einum
+
+ and Fleming 2000). Larger individuals tend to experience lower predation within a given life stage (Mather 1998; Chaput et al. 2019). Typical predators of juvenile salmonids include fish, birds and mammals (see Table 1 in 
+
+Falkegård
+
+ et al. 2023 and Table 3 in Sortland et al. 2025).  Common fish predators in the Lake Ontario drainage include other salmonids (especially, Brown trout (Salmo trutta), Brook trout (S. fontinalis), Rainbow trout (Oncorhynchus mykiss), and older Atlantic salmon. Predation mortality is density-dependent and most intense during the first summer (
+
+Einum
+
+ and 
+
+Nislow
+
+ 2005; Teichert et al. 2013).  Sick, weak, disfigured and otherwise less fit individuals are most prone to predation (lower escapement ability) and would die of other causes and fail to reproduce (Milinski and Löwenstein 1980; 
+
+Genovart
+
+ et al. 2010). Once Atlantic salmon smolts emigrate from Great Lakes tributaries, they quickly disperse offshore which may reduce predation from Chinook salmon (Oncorhynchus tshawytscha) and brown trout (Salmo trutta) in the spring (Johnson et al. 2007), although Nash et al. (2022) found Atlantic salmon smolts occupy similar depths to piscivorous brown trout in a Norwegian lake, resulting in high predation mortality. Numerous studies with sea run Atlantic salmon note exceptionally high predation mortality (higher than in rivers) in the first few kilometres of the estuary (Thorstad et al. 2012b; 
+
+Vollset
+
+ et al. 2025). Smolt survival is better in steeper gradient estuaries (Jepsen et al. 2006).  Smolt mortality is generally density-independent, so addressing survival bottlenecks that enhance smolt survival will confer maximum benefit to salmon populations (Flávio et al. 2020). 
+
+Hatchery reared individuals have reduced fitness compared to wild counterparts (Van 
+
+Zwol
+
+ et al. 2012b; Milot et al. 2013; Larocque et al. 2020) and may be more vulnerable to predation (Johnsson et al. 2001; Hawkins et al. 2004; Jackson and Brown 2011; Thorstad et al. 2012a).  Predator avoidance became diminished with increasing ancestry in hatchery (Houde et al. 2010; de 
+
+Mestral
+
+ and 
+
+Herbinger
+
+ 2013).  Presence of a predator (real, visual or olfactory) causes fear, reducing foraging and increasing use of suboptimal habitat with consequent effects on growth, maturation, etc. (
+
+Huntingford
+
+ et al. 1988; 
+
+Gotceitas
+
+ and Godin 1992; Houde et al. 2010, 2015a; Lau et al. 2021;). Growth and survival depensation in Atlantic salmon was evident with brown and rainbow trout, mixed for coho salmon, but not seen in presence of Chinook salmon (Jones and Stanfield 1993; Van 
+
+Zwol
+
+ et al. 2012b; Houde et al. 2015b). Several studies suggest Atlantic salmon smolts migrate at night as an anti-predator strategy (Solomon 1982; McCormick et al. 1998; Ibbotson et al. 2006, 2011; Haraldstad et al. 2017) 
+
+Falkegård
+
+ et al. (2023) describe four situations where predation is problematic: 1) when population is already low; 2) when predation is exacerbated by human activity (reduced water quality, habitat availability, flow, or elevated temperatures) (reviewed by McCormick et al. 1998); 3) in the presence of non-native predators (Mensinger et al. 2024, 2025); and 4) under climate warming (Thorstad et al. 2021).  Impoundments and weirs are especially problematic – both as a physical barrier but also creating an upstream reservoir which reflects a different habitat with different predators that Atlantic salmon exhibit difficulty negotiating (Mather 1998; Aarestrup et al. 1999; Jepsen et al. 2000; Svenning et al. 2005; Koed et al. 2006; Hanssen et al. 2022). Jepsen et al. (1998) suggested stocking upstream of a reservoir was “futile”. However, in Lake Champlain, Heim et al. (2025) found abundance of ring billed gulls increased 10-fold within 2 hours of stocking downstream of a barrier, but no change in bird density was seen upstream, resulting in markedly better upstream survival even though fish had to pass the barrier and travel further. Environmental conditions such as low water levels or elevated temperatures (Martínez-
+
+Abraín
+
+ et al. 2020) and changes in productivity (Fisher and Pearcy 1988) can also alter predation risk. 
+
+Predation is a major source of mortality on most life stages of Atlantic salmon (reviewed in 
+
+Falkegård
+
+ et al. 2023).  However, many predators are generalists that have co-evolved with Atlantic salmon, making managing predator populations rarely effective.  Further, there is little evidence that predation alone is the causative factor in population declines, but predation may keep decimated populations from recovering. Interventions aiming to restore salmon populations affected by predation should focus as much as possible on identifying and resolving the driving factors behind the population’s demise while considering predation as a potential synergistic factor.  
+
+Low Survival of stocked fish
+
+Michael Connerton, NYDEC, michael.connerton@dec.ny.gov
+
+The overarching impediment to Atlantic salmon fisheries in Lake Ontario has been relatively poor survival of stocked fish to produce adult return adequate numbers for a productive fishery. Stocking life stage is an important factor affecting post stocking survival, and stocking smolts generally provides higher survival rates than earlier life stages (Boucher and Warner 2006, Jonsson and Jonsson 2009). Atlantic salmon have been stocked in Lake Ontario tributaries as fry (Coghlan et al 2007), advanced fry (Coghlan and Ringler 2010, Murphy et al 2017), parr (Bowlby 2013, Johnson 2013) and fall fingerlings (Johnson et al 2016). Parr stocked in Ontario tributaries have met in-stream survival benchmarks (0.5 individuals/m2, survival-10-22%, Bowlby 2013) but ultimately have not produced enough adults returning to tributaries in adequate numbers to produce fisheries. Stocking yearlings have produced relatively higher returns. 
+
+Stocking location is an important factor influencing post stocking survival (Stevens et al 2019). In Lake Ontario, stocking of yearlings in upstream locations at Salmon River, NY has produced relatively low returns. In contrast, release of yearlings in downstream locations near the lake at Oak Orchard Creek has produced better returns (based on 20,000 stocked annually).  Stocking smolts of other species near the stream mouth has produced successful fisheries for other 
+
+salmonines
+
+ in Lake Ontario (e.g., brown trout and steelhead). 
+
+Release temperature and timing may also be important factors for stocking success. Peak migration of Atlantic salmon smolts generally occurs during late April-June at temperatures between 6 and 52° F or 7.8 and 11.1° C (Whalen et al 1999), and 
+
+Karpinnen
+
+ et al (2014) demonstrated that survival of hatchery smolts was greater when stocking occurred at the optimal temperatures for migration (Frechette et al 2023).  A stocking program in the St Mary’s River (Lake Huron) has also had success releasing Atlantic salmon smolts using a 46°F water temperature-based release protocol (Johnson 2017). Although migration timing can vary depending on photoperiod (
+
+Zydelwski
+
+ et al. 2014), temperature degree days, smolt physiological status (e.g., size/condition, Crossin et al 2016, hormonal changes, McCormick et al 1987), discharge (Whalen et al 1999), and position in the watershed, hatchery smolts released too early in the spring in cold waters ceased migration speed and were vulnerable to predation, and survival rates increased markedly for smolts released later in the spring (
+
+Karpinnen
+
+ et al 2014).
+
+2. Ontario Atlantic Salmon Strategy
+
+Thomas Gristey, OMNR, Thomas.Gristey@ontario.ca 
+
+The Ontario Five-Year Workplan (2025–2029) outlines OMNR’s strategic direction for Atlantic Salmon restoration within Lake Ontario and is intended to align closely with ongoing efforts by NYSDEC and guidance from the GLFC and Lake Ontario Technical Committee. The plan reflects a shift toward a more focused, operationally efficient model that concentrates effort on priority watersheds and emphasizes increasing adult salmon abundance in the lake through targeted stocking of advanced life stages, improved habitat conditions, and enhanced monitoring capacity. 
+
+Coordinated science and assessment initiatives such as PIT and acoustic tagging, integrated assessment of adult returns at key locations, evaluation of fall vs. spring yearling performance, and sample sharing for strain evaluation with NYSDEC and USFWS on the performance of the (Low thiamine tolerance) Low-TT strain.
+
+The Workplan aims to strengthen binational data sharing, streamline governance, and embed adaptive management principles to refine stocking practices, understand survival bottlenecks, and assess restoration progress.
+
+2.1 Lake Ontario Atlantic Salmon Program
+
+The Ontario Five-Year Work plan outlines five key priorities for OMNR on Atlantic Salmon restoration:
+
+Increase adult Atlantic Salmon abundance in Lake Ontario
+
+Continue to improve habitat in priority watersheds.
+
+Focus on enhanced stocking of the fall and spring yearling life stage.
+
+Enhance Atlantic Salmon recreational angling opportunities.
+
+Improve communication and awareness of program direction.
+
+The five priorities are designed to facilitate natural reproduction and enhance recreational fisheries in Lake Ontario. To achieve these priorities, OMNR will implement a coordinated set of actions across its internal divisions and in close collaboration with OFAH. Actions include understanding the performance and survival of spring and fall yearlings; assessing and monitoring adult fish; providing continued support for the Lake Ontario Technical Committee's Atlantic Salmon Working Group; establishing a leadership group; and undertaking habitat initiatives with OFAH.
+
+2.1.1 Fish Production
+
+OMNR currently produces and stocks approximately 230,000 Atlantic Salmon annually, representing roughly 12% of Ontario’s total hatchery stocking effort. Fish are stocked across multiple life stages depending on season and production timing—spring fingerlings (6 months), spring yearlings (12–14 months), and fall yearlings (22–24 months). Fertilized eggs are also supplied to partner hatcheries through to OFAH’s Classroom Hatchery Program, where resulting fry are stocked as early-stage fish.
+
+Stocking was focused on four core watersheds (Credit, Humber, 
+
+Duffins
+
+, 
+
+Ganaraska
+
+) and several lake-based sites, including Lakefront Promenade and Port Dalhousie. Over time, Ontario has refined its strategy through adaptive management, shifting from high-volume early-life stocking (multiple strains, upstream placement) toward lower-volume stocking of older life stages, primarily the Sebago strain, released lower in watersheds and near the lake. Today, spring yearlings comprise most of the production (~100,000 fish annually).
+
+2.1.2 Community Involvement
+
+Ben Teskey, OFAH, ben_teskey@ofah.org 
+
+Public engagement efforts continued to grow through OFAH-led initiatives, including the virtual Classroom Hatchery Program during the pandemic, which reached over 5,000 students at 214 classes. The in-class program returned in 2023, reaching approximately 2,500 students annually across 85 locations. OFAH also leads public engagement initiatives, attending 7-10 events per year, engaging thousands of members of the public.
+
+International collaboration played a key role in shaping future restoration strategies in Lake Ontario. To support adaptive, science-based management, the Atlantic Salmon Working Group was established under the Lake Ontario Technical Committee. This binational team, chaired by MNR in collaboration with New York State and the United States Fish and Wildlife Service (USFWS), coordinates scientific planning, data sharing, and evaluation of restoration progress across national jurisdictions.  Working Groups exist for other species, such as Lake Trout, and the formation of the Atlantic Salmon Working Group will help ensure consistency and efficiency of effort.
+
+Since 2006, OFAH has led 220 planting 106,578 trees and shrubs engaging 6689 volunteers in support of Lake Ontario Atlantic salmon restoration and overall ecosystem health. In addition to stream ecosystem benefits, these plantings act as opportunities to educate participants in habitat health, ecology, natural history, and the importance of being active environmental stewards.
+
+Atlantic Salmon are also produced at two community-led hatcheries. These hatcheries rely on volunteers to help with their operations and stocking efforts. The Atlantic Salmon eggs are produced and provided by OMNR.  
+
+Belfountain
+
+ hatchery stocks approximately 10,000 spring fingerlings annually into the upper Credit River. In 2024, 
+
+Belfountain
+
+ began raising and stocking a small number of spring yearlings also into the upper Credit River.  Islington Sportsman’s Club (ISC) stocks approximately 10,000 spring fingerlings into the upper Humber River annually. In 2023, ISC also began raising and releasing small numbers of spring and fall yearlings.
+
+2.1.3 Research and Assessment
+
+Thomas Gristey, OMNR, Thomas.Gristey@ontario.ca 
+
+Until very recently, research and assessment on Atlantic Salmon on the north shore of Lake Ontario has been limited. Ontario is now focusing on assessment initiatives designed to evaluate stocking performance, survival, adult return patterns, and the potential for natural reproduction on the observed returns at Lakefront Promenade. The ongoing PIT-tag study (2024–2027) of fall and spring yearlings will allow identification of individual returning adults and enable direct comparison of return contributions across stocked life stages. Complementing this, the fall-yearling acoustic telemetry program (2025–2028) will track 60 tagged fish released at Lakefront Promenade and the 
+
+Ganaraska
+
+ River to assess post-release survival, spatial use, migration timing, and imprinting behavior through the Great Lakes Acoustic Telemetry Observation System (GLATOS) network and additional receiver deployments.
+
+Adult returns will also continue to be monitored using 
+
+RiverWatcher
+
+ systems operating at the 
+
+Ganaraska
+
+ and Credit River fishways. These automated video and infrared fish counters provide continuous seasonal monitoring of upstream salmonid migration and enable detection of adult Atlantic Salmon presence, passage timing, and relative abundance. Given the volume of video imagery produced (tens of thousands of detections annually), MNR is developing a machine-learning model to assist with automated species identification, allowing for substantial increases in processing efficiency and improved accuracy in quantifying Atlantic Salmon returns. In addition, a tributary creel survey on the 
+
+Ganaraska
+
+ River will provide angler-based catch and effort data, supporting independent estimation of Atlantic Salmon presence, run strength, and timing of returns within the river.
+
+All returning adults captured through Lakefront Promenade sampling will be further examined for egg-thiamine concentrations, growth and condition, stable isotope composition, and genetic origins. Thiamine analysis will help understand issues associated with vitamin deficiency, while isotope data will identify prey pathways and dietary origins. Genetic testing will determine strain origin (Ontario vs. New York), support evaluation of the Low-TT strain, and detect wild-origin progeny that would indicate natural reproduction.
+
+The resulting information will directly support adaptive management of restoration efforts in collaboration across Lake Ontario, enabling evidence-based refinement of stocking practices, spatial targeting, and long-term restoration planning. 
+
+2.1.4 Habitat Enhancement
+
+Ben Teskey, OFAH, ben_teskey@ofah.org 
+
+The many projects have been completed since the restoration program began in 2006 in Ontario, improving ecosystem health to support Atlantic Salmon. However, many detrimental issues remain that hinder access to and the availability of suitable spawning, juvenile rearing, and overwintering habitats.  These issues include:
+
+Thermal impacts resulting from deforestation, instream barriers, online constructed ponds, and hardened urban landscapes. These impacts may be exacerbated by future impacts of climate change.
+
+Habitat connectivity issues caused by dams, which deny Atlantic Salmon access to high-quality spawning and nursery habitat and disrupt the downstream motion of sediment, nutrients, woody material, and gravel. 
+
+Extreme water flow issues (high and low) caused by the loss of wetlands, forests, and floodplains, and the addition of hardened landscapes. 
+
+Loss of in-stream leaf and woody material due to deforestation and suppression of beavers, resulting in loss of nutrients, structural cover, and natural stream flow dynamics 
+
+Contaminants from agricultural and urban runoff and litter.
+
+With these completed projects, there requires a need to outline important habitat areas. Strategic habitat priorities for the north shore over the next five years should include improving fish passage and habitat connectivity, protecting cold-water groundwater-supported tributaries, restoring high-quality spawning and juvenile rearing habitat, and reducing broader watershed stressors such as impervious cover, unstable flows, and other land-use impacts. Using habitat information in this way allows restoration actions to be prioritized toward tributaries and stream reaches where the probability of long-term Atlantic salmon persistence is greatest. Stanfield, Gibson, and Borwick (2006) found that catchment development, represented by percent impervious cover, along with base flow index, drainage area, and downstream barriers were among the strongest predictors of salmonid distribution in Lake Ontario tributaries. Their work also highlighted the importance of groundwater-supported tributaries associated with the Oak Ridges Moraine and Niagara Escarpment in maintaining cold headwaters and more stable flow regimes. Complementing this broader landscape perspective, Stanfield and Jones (2003) showed that juvenile Atlantic salmon rearing success in north shore tributaries was greatest in higher-gradient habitats with abundant rock cover, while fry 
+
+were
+
+ more negatively affected by rainbow trout than parr. Together, these studies indicate that successful restoration will require both watershed-scale protection of cold-water, connected tributaries and site-scale restoration of high-quality, rock-dominated juvenile rearing habitat. Future work on the Canadian side will be developing a new habitat plan with the Lake Ontario Atlantic Salmon Habitat Team with the objective to identify habitat need/gaps, define stream reaches by function (i.e. migration corridor, spawning/nursery habitat) and prioritize potential habitat projects within each watershed to provide direction for future restoration efforts.
+
+3. New York Atlantic Salmon Strategy
+
+Michael Connerton, NYDEC, michael.connerton@dec.ny.gov
+
+3.1 Atlantic Salmon Fisheries Management Plan
+
+The New York State Department of Environmental Conservation (NYSDEC) Lake Ontario Atlantic Salmon Fisheries Management Plan 2023-2026 outlines goals, objectives and strategies for improving the Lake Ontario Atlantic salmon fishery in New York. The plan’s goal is to provide an Atlantic salmon summer fishery in the Salmon River NY, develop fall/winter fisheries in three additional Lake Ontario tributaries, and where possible increase natural reproduction of Atlantic salmon.  
+
+To achieve this goal, NYSDEC increased the number of fish stocked annually from 50,000 to 200,000 hatchery yearling smolts, expanded stocking to four priority tributaries, and began experimenting with genetic strains and release strategies to improve survival of stocked fish. New York is also exploring opportunities for tributary habitat enhancement and conducting public outreach for anglers to assist with monitoring and evaluation of adult returns to promote stewardship of Atlantic salmon fisheries.
+
+3.1.1 Fish Culture Objectives
+
+The 2023-2026 Plan established a new target of 200,000 yearling smolts per year stocked at four priority tributaries in New York (50,000 each to Salmon River, South Sandy, Oak Orchard, and Sandy Creek). This objective was met by increasing production at NYSDEC Adirondack Hatchery to 60,000 and partnering with the US Fish and Wildlife Service (USFWS) Eisenhower National Fish hatchery (NFH) to produce 140,000 yearling smolts from 2023-2025. NYSDEC is pursuing continued partnerships or alternatives for maintaining fish production targets in the future. 
+
+3.1.2 Fisheries Management Objectives
+
+The 2023-2026 plan established five fishery management objectives:  
+
+Develop an Atlantic salmon fishery in the Salmon River during the summer and early fall fishing season.
+
+Develop fall/winter tributary fisheries for Atlantic salmon in Oak Orchard Creek, Sandy Creek (Monroe County) and South Sandy Creek (Jefferson County).
+
+Improve the post-stocking survival of Atlantic salmon. Stock spring yearling smolts low in watersheds at locations near the lake and at temperatures of 46 °F (7.8 °C) or greater during May-June.  Evaluate pen stocking.  
+
+Evaluate sport fishery quality and stocking methods to inform adaptive management strategies. Monitor the quality of the sport fishery through the Lake Ontario Creel Survey, covering both lake and tributary fisheries and explore options for angler diary programs to monitor catches of Atlantic salmon in summer tributary fisheries. Develop a tool for anglers to collect fin clip information from caught fish to evaluate pen vs. direct stocked Atlantic salmon in the Salmon River. Use genetic parentage-based tagging to evaluate the relative performance of Sebago strain vs low thiamine tolerant Sebago strain Atlantic salmon smolts. Experiment with using traditional fisheries sampling techniques (e.g. trap netting, electroshocking) to collect adult Atlantic salmon in Lake Ontario tributaries. Work with cooperating anglers to collect tissue samples from angler caught Atlantic salmon for parentage-based tagging analysis.
+
+Maintain and improve high quality habitats to support all life stages of Atlantic salmon. 
+
+3.1.3 Research and Assessment
+
+Research and assessment initiatives are currently focused on evaluating stocking success of two strains of Atlantic salmon stocked at four tributaries in New York. NYSDEC partnered with USFWS to evaluate a traditional Sebago strain and a newly developed low-thiamine-tolerant Sebago strain. This new strain was derived from Lake Champlain broodstock and selected under low-thiamine incubation conditions. From 2023-2025, the USFWS Eisenhower NFH provided genetically marked lots of Atlantic salmon smolts using parentage-based tagging (PBT). PBT is a technique where the genetic information of the female parents of all stocked fish is recorded. When an adult fish is subsequently caught and sampled, genetic analysis can determine which hatchery female and lot of stocked fish the sampled fish originated. Post-stocking survival and returns of strains to individual sites are being evaluated by monitoring catches of Atlantic salmon in lake and tributary creel surveys, and by genetic analysis of tissue samples to identify strain and site composition. Genetic samples are being submitted by creel surveys, angler cooperators, fish cleaning stations, and electrofishing surveys conducted by NYSDEC in tributaries in the fall. In future years, sampling to detect natural reproduction in tributaries is also planned.  
+
+3.1.4 Habitat Enhancement
+
+Peter Kinney, NYSDEC, peter.kinney@dec.ny.gov,  
+Michael Connerton, NYSDEC, Michael.connerton@dec.ny.gov   
+
+NYSDEC is working with USFWS and NOAA to complete several fish habitat enhancement projects in the Salmon River where degraded riparian and stream conditions are contributing to unsuitable habitats for Atlantic salmon (Bishop et al 2018).  USGS is using thermal imagery and evaluating predictive groundwater discharge models in Lake Ontario tributaries to help identify areas that can provide cold water refuges for Atlantic salmon during summer (Woda et al 2025).  USFWS is conducting instream habitat assessment and mapping in Oak Orchard Creek, Sandy Creek, Salmon River, and South Sandy Creek to determine the extent of suitable habitat available to support natural reproduction in these tributaries and to help identify areas that could benefit from habitat enhancement projects (Eisenhauer et al unpublished data). The plan calls for actively seeking conservation easements on Oak Orchard Creek, Sandy Creek, and South Sandy Creek or alternate locations to conduct habitat rehabilitation based on the results of integrating USFWS habitat data and USGS groundwater mapping data.
+
+USGS is using thermal imagery and evaluating predictive groundwater discharge models in Lake Ontario tributaries to help identify areas that can provide cold-water refuges for Atlantic salmon during summer (Woda et al 2025).  USFWS is conducting instream habitat assessment and mapping in Oak Orchard Creek, Sandy Creek, Salmon River, and South Sandy Creek to determine the extent of suitable habitat available to support natural reproduction in these tributaries and to help identify areas that could benefit from habitat enhancement projects (Eisenhauer et al. unpublished data). The plan calls for actively seeking conservation easements on Oak Orchard Creek, Sandy Creek, and South Sandy Creek or alternate locations to conduct habitat rehabilitation based on the results of integrating USFWS habitat data and USGS groundwater mapping data.
+
+3.1.5 New York Atlantic salmon Management Plan Desired Outcomes
+
+Initial benchmarks for success in the open lake fishery, tributary fishery, and for increased natural reproduction are:
+
+Annual total estimated catch of 2,000 Atlantic salmon in the open lake fishery. 
+
+Annual total estimated catch of 1,000 Atlantic salmon in Oak Orchard Creek, Sandy Creek (Monroe County), Salmon River, and South Sandy Creek (Jefferson County). 
+
+Consistent annual detection of wild young of the year (YOY) Atlantic salmon in the Salmon River system. Wild Atlantic salmon have been detected here previously; however inconsistent sampling effort has failed to detect any wild reproduction.
+
+Presence of wild YOY Atlantic salmon in Oak Orchard Creek, Sandy Creek (Monroe County), and South Sandy Creek (Jefferson County). Wild YOY Atlantic salmon have never been detected in Oak Orchard Creek, Sandy Creek, or South Sandy Creek. 
+
+4. Stocking Summary
+
+Recent adult Atlantic salmon returns to Lake Ontario tributaries provide encouraging signs of program success. Adult fish have been observed at the Lakefront Promenade and at multiple south shore tributary mouths in New York. Telemetry data from tag returns indicate that a proportion of spring-yearling releases are surviving to adulthood and returning to general stocking areas, though stream-specific homing fidelity requires further investigation. Return rates remain low relative to stocking numbers, consistent with other Lake Ontario salmonid programs. 
+
+Thomas Gristey, OMNR, Thomas.Gristey@ontario.ca 
+
+Both Ontario and New York have historically experimented with a range of anadromous and landlocked strains but have increasingly refined their programs toward lineages demonstrating stronger performance and greater resilience to thiamine deficiency. The following sections summarize current strain use and stocking strategies for Atlantic salmon in Lake Ontario by Ontario and New York, in other Great Lakes, and landlocked populations globally.
+
+4.1 Ontario Strains
+
+Since 1987, Ontario has tested multiple strains of Atlantic Salmon in Lake Ontario tributaries, including anadromous strains (
+
+LaHave
+
+ River, NS; St. John River, NB; Green Lake, ME) and landlocked strains (Sebago Lake, ME; Lac St. Jean, QC; Little Clear Lake, NY). Over time, the program shifted from broad experimentation to evidence-based refinement: by 2011, MNR was actively using three strains (
+
+LaHave
+
+, Sebago, Lac St. Jean), and today, Ontario has consolidated entirely on Sebago Lake-origin fish as the primary production strain.
+
+Sebago and Lac St. Jean strains have shown greater resilience to thiamine deficiency in experimental studies, retaining higher internal thiamine reserves when feeding on thiaminase-rich prey such as alewife, an important advantage in Lake Ontario’s current food web. In contrast, the 
+
+LaHave
+
+ strain demonstrated greater susceptibility to thiamine depletion, resulting in lower survival and recruitment. The development of a captive Sebago-origin broodstock at Harwood Fish Culture Station now provides Ontario with a reliable annual supply of ~2 million green eggs, eliminating reliance on external egg sources and supporting large-scale production of multiple Atlantic Salmon life stages.
+
+4.1.2 Ontario Stocking Strategy
+
+Beginning in 2021, Ontario initiated a strategic expansion of fall yearling production, with 9,000–10,000 fish stocked annually at select locations, including Lakefront Promenade (Mississauga), resulting in the emergence of a new adult fishery and increased adult return observations. Ontario is now transitioning toward an annual production model of ~120,000 spring yearlings (16-18 months old), with ~20,000 held in hatchery to grow further into fall yearlings. As the yearlings reach maximum density, spring-yearling stocking frees up rearing capacity for the growth of the remaining 20,000 fish until fall stocking at 22-24 months old.
+
+This late life-stage-focused production strategy supports two objectives: (1) increasing the proportion of stocked fish that survive to adulthood, and (2) creating meaningful Atlantic Salmon angling opportunities while progressing toward long-term restoration goals.
+
+4.2 New York Strains
+
+Michael Connerton, NYSDEC, Michael.connerton@dec.ny.gov   
+
+In New York waters of Lake Ontario, the NYSDEC historically relied on the Little Clear (LC) strain—an outlet-spawning, landlocked lineage derived largely from West Grand Lake stock and maintained at the Adirondack Hatchery since the 1940s. This strain formed the backbone of NY’s Atlantic Salmon program for decades. In 2015, NYSDEC transitioned from LC to the Sebago strain (a landlocked, inlet-spawning lineage from Maine), now established as New York Sebago (NSB) and stocked as yearlings beginning in 2017 in Lake Ontario and other NY waters.
+
+New York has also conducted extensive experimental strain trials for Lake Ontario, stocking a variety of lineages at different life stages, including: 
+
+Mephromagog
+
+, West Grand Lake, Penobscot, Merrimac River, and Sebago strains. Strain specific differences in growth, density and survival have been evaluated to identify potential candidates for reintroduction into Lake Ontario and its tributaries (Murphy 2003, review in Dimond and Smitka 2005, Coghlan 2007, 
+
+Dirado
+
+ et al 2017, Murphy et al. 2017).  No significant differences in survival and growth between stocked sea run (Merrimac and Penobscot) and landlocked (Lake 
+
+Mephromagog
+
+ ,West Grand Lake) were detected (Murphy et al. 2017); however, Lake 
+
+Mephromagog
+
+ strain exhibited significantly faster growth than  Sebago strain (
+
+Dirado
+
+ et al 2017).  Most recently (2023–2025), NYSDEC and USFWS initiated field evaluation of a low-thiamine-tolerant variant of Sebago (TT strain) developed at Eisenhower NFH and White River NFH, stocked at four test sites along the south shore of Lake Ontario. These findings continue to guide NY’s strain selection, fisheries development, and collaborative restoration plans for Lake Ontario.
+
+Resulting Atlantic salmon densities exceeded the target density of five age‐0 fall fingerlings/100 m2 at 52% of the site‐years surveyed. Atlantic salmon stocked as parr (fed in hatchery before stocking; annual mean weights, 0.45‐0.95 g) consistently had greater survival to the age‐0 fall fingerling stage than those stocked as fry (not fed before stocking, annual mean weights, 0.13‐0.20 g) (Stanfield and Jones 2003). 
+
+4.3 Great Lakes
+
+Thomas Gristey, OMNR, Thomas.gristey@ontario.ca 
+
+After early-20th-century failures to establish Atlantic salmon in the upper Great Lakes, Michigan State found success beginning in 1987 through a partnership between Lake Superior State University and the Michigan DNR. The key shift was rearing fish past smolt stage (~1.5 years old) before release, allowing stocked fish to immediately migrate into the lake rather than remaining in rivers where mortality was high. This approach yielded strong adult return rates (~5–6% to creel), supporting a stable hatchery-based recreational fishery. Unlike Chinook salmon, whose numbers collapsed after the alewife crash, Atlantic Salmon remained resilient due to a more flexible diet (Roseman et al. 2014). While reproduction was historically absent, in 2012, the first documentation of naturally reproduced Atlantic salmon fry was recorded in the St. 
+
+Marys
+
+ River, providing evidence of emergent natural recruitment in the upper Great Lakes.
+
+This strategy of releasing fish past the smolt stage was an important lesson that was subsequently used to inform Lake Ontario stocking programs. Recognizing the limitations of traditional smolt releases, which potentially subjected young fish to high predation and thermal stress during their transitional river-to-lake migration, Lake Ontario’s stocking adopted the extended-rearing protocol, developed in the upper Great Lakes, in a few select locations. This approach has been utilized with measurable success at Lakefront Promenade, where post-smolt releases have contributed to documented adult returns and enhanced angler catch opportunities. The extended-rearing method appears to address a critical bottleneck in Atlantic salmon restoration: by stocking larger, physiologically mature fish can immediately disperse into the lake, which may reduce the vulnerability window during which salmon are confined to riverine habitats with elevated predation risk and suboptimal thermal conditions. Lake-wide creel surveys suggest that catch rates have increased in recent years, though attributing this trend directly to the post-smolt release strategy remains challenging given concurrent changes in forage availability, predator dynamics, and stocking density. Nonetheless, the approach represents a tangible application of adaptive management, demonstrating how lessons learned from one Great Lakes basin can inform restoration efforts in another, and offering a pathway toward establishing self-sustaining Atlantic salmon populations in Lake Ontario.
+
+4.4 Globally
+Thomas Gristey, OMNR, Thomas.gristey@ontario.ca 
+
+Globally, several jurisdictions are actively stocking landlocked Atlantic salmon or also referred to as 
+
+ouananiche
+
+ in select regions. Landlocked Atlantic Salmon occur naturally in a relatively narrow geographic range spanning northeastern North America and northern Europe, but within that range, they exhibit considerable diversity in population structure and habitat use. In many systems, “populations” are often defined by the lake where fish feed as adults, but in large, multi-tributary lakes (e.g., Lac Saint-Jean, Lakes Ladoga and Onega, Lake 
+
+Vänern
+
+, and historically Lake Ontario and Lake Champlain), the lake supports multiple genetically distinct river-spawning groups rather than a single homogeneous population. 
+
+In Canada, native 
+
+ouananiche
+
+ are most widely distributed in Québec, with additional native or likely native occurrences in Nova Scotia and historically in parts of New Brunswick. However, extensive stocking across these areas now obscures the status of original genotypes in many waters. In the United States, landlocked salmon have been greatly expanded beyond their original four native lakes in Maine to more than 130 stocked lakes, and Lake Champlain now supports a large hatchery-based fishery following the extirpation of its native populations. 
+
+New Jersey (US) manages landlocked salmon primarily as a recreational fishery, annually stocking spring- and fall-yearlings into three deep, cold lakes (
+
+Waywayanda
+
+, Aeroflex, 
+
+Tilcon
+
+). Natural reproduction is minimal, and the fishery is fully sustained by hatchery supplementation. After initially stocking smaller spring yearlings (~8"), New Jersey shifted toward larger, older fish (14–18") once evidence showed improved survival and faster entry into the angling population. This program illustrates a stocking model optimized for angler opportunity rather than restoration of a self-sustaining population.
+
+In Europe, most landlocked populations are associated with major lakes such as Saimaa, 
+
+Vänern
+
+, Ladoga, and Onega. Still, important exceptions exist: some populations, such as Norway’s 
+
+småblank
+
+ and several Newfoundland 
+
+ouananiche
+
+, persist entirely in riverine habitats or in small lake–river complexes, and in some systems landlocked and anadromous salmon co-occur. Lake Ontario historically fit within this global pattern as a large, multi-tributary system likely supporting several distinct riverine spawning populations that used the lake as a common feeding area before their extirpation in the late 1800s.
+
+Ongoing work in Lake Champlain provides a valuable analogue for Lake Ontario. There, large-scale annual smolt stocking has been paired with targeted research on stocking distribution, thiamine deficiency, and dam passage for smolts and adults. The recent detection of naturally produced juveniles in multiple Champlain tributaries suggests that, even in heavily modified systems, restoration of natural reproduction is possible when passage, predation, and thiamine-related constraints are mitigated. Comparative studies between Champlain and Lake Ontario, particularly around strain performance, stocking locations, and thiamine-related migration effects, represent a future research opportunity for both New York and Ontario.
+
+A key lesson from Lac Saint-Jean (Québec) is that managing prey can be more effective than increasing stocking. There, managers shifted from stocking large numbers of hatchery 
+
+ouananiche
+
+ to enhancing smelt spawning habitat and then adjusting fishing seasons and catch limits based on annual smelt abundance indices. This prey-focused strategy successfully increased adult abundance without the need for continued stocking. For Lake Ontario, this highlights the importance of considering prey pathways and predator–prey balance in restoration planning, including how alewife, smelt, and other forage species support or constrain Atlantic Salmon condition, growth, and survival.
+
+International case studies from Saimaa, 
+
+Vänern
+
+, and 
+
+Meelpaeg
+
+ Lake reinforce that habitat connectivity and quality are central to landlocked salmon recovery; supportive stocking only produced lasting gains once key spawning and nursery habitat was restored or reconnected above hydropower barriers (Leinonen et al. 2020).
+
+5. Recommendations for stocking, science, and collaboration
+
+Thomas Gristey, OMNR, Thomas.Gristey@ontario.ca 
+
+This section consolidates insights from current impediment research, stocking assessments, and jurisdictional strategies into recommendations for the stocking, science, assessment, and collaboration for Atlantic Salmon restoration in Lake Ontario going forward. Recognizing that restoration is a long-term, multi-agency effort, these recommendations aim to help the Lake Ontario Technical Committee and its partners refine management actions through an adaptive management framework. Several factors are essential to this process, which include aligning of stocking practices with emerging data, setting focused research objectives, updating lake-wide goals, and strengthening collaborative networks across Lake Ontario. By leveraging current successes, Ontario and New York can continue working toward restoration.
+
+5.1 Stocking
+
+Thomas Gristey, OMNR, Thomas.Gristey@ontario.ca 
+
+Based on recent assessment data and emerging adult returns, Ontario and New York should prioritize stocking strategies that emphasize older life stages, strategic release timing, and targeted placement at key nearshore locations. Early evidence from Lakefront Promenade (LFP) and returns on the south shore, and increased catch reports from anglers (NYDEC 2025 Creel), suggests that fall and spring yearling Atlantic Salmon, stocked low in tributaries or directly at river mouths and 
+
+embayments
+
+, may demonstrate improved survival and imprinting relative to younger life stages. Increasing survival is critical to Atlantic salmon restoration, as it is required to address imprinting and reproductive success.  Consequently, determining whether these older fish can successfully return to spawn in rivers with suitable habitat remains an important outstanding question. Continued evaluation of imprinting success, adult return rates, and spatial fidelity to stocking sites must remain an important part of the strategy going forward.
+
+As production shifts toward supplying these older life stages, hatchery space constraints will limit total production volume, measured in the number of fish produced. However, this creates opportunities to utilize fry or fingerlings produced during rearing for stocking in additional tributaries or in experimental scenarios, provided monitoring outcomes are carefully managed and do not impact or confound existing assessments. This additional stocking could be used as an exploratory option rather than the primary restoration strategy and should be communicated effectively across the lake to avoid confounding any existing assessment programs. Additionally, future work must quantify the relative cost-effectiveness and biological performance of fall versus spring yearling stocking strategies. Determining whether one stage consistently produces higher return rates per hatchery-rearing cost, or whether performance varies by release site. This will directly inform production planning within OMNR and NYSDEC facilities. These evaluations should include PIT-tagged cohorts to support explicit life-stage survival comparisons, avoiding reliance on untagged return inference.
+
+Feeding Strategies: Operational improvements in hatchery rearing should also be considered to maximize post-release survival. Recent studies, such as those from Finland, suggest that older released Atlantic salmon are more susceptible to angling and can impact post-stocking performance. Studies suggest fish reared exclusively on top-water feed may be conditioned to feed near the surface, potentially increasing their vulnerability to angling immediately upon stocking. A telemetry study in Lake Ontario indicated that adult brood stock Atlantic salmon released into the lake were using near the surface depths (< 4 m), corroborating this idea of increased susceptibility to angling pressures (Larocque et al. 2022). Investigating mid-water column feeding strategies could mitigate this risk.
+
+Fin Erosion: Fin erosion is another issue that could impact post-stocking survival, particularly for older life stages, such as fall yearlings that undergo extended hatchery residence. These fish are often susceptible to increased fin wear, which can compromise swimming performance once released. This issue is frequently documented by anglers and has presented confounding challenges with lake-wide fin clipping approaches, confounding lake-wide assessment. To address this, Fish Culture staff should investigate rearing practices designed to minimize fin erosion. This review should evaluate factors such as tank densities, flow dynamics, and handling procedures, as well as the potential use of saline baths and veterinary assistance, to identify modifications that preserve fin integrity and ensure that stocked fish are in optimal physical condition upon release.
+
+Low-Thiamine Tolerance (Low-TT): Evaluation of the Low-Thiamine (Low-TT) Sebago-derived strain currently being examined by USFWS and NYSDEC remains a priority. If the Low-TT strain demonstrates greater resilience to thiamine deficiency or superior performance in alewife-dominated food webs, agencies should jointly consider expanding its use. This would include targeted stocking to monitor comparative strain performance on both sides of the lake and determine its long-term viability as a primary restoration strain.
+
+Diversification of the Lake Ontario prey base may be an important consideration for Atlantic salmon restoration. Alewife, while abundant, imposes thiamine costs on piscivores that consume them as a dominant dietary item. A diet shift toward a less alewife-dominated prey base, as hypothesized for Lake Ontario’s pre-alewife state could reduce TDC prevalence in returning adults over multi-decadal timescales (see Larocque et al. 2022). 
+
+5.2 Science and Assessment
+
+Thomas Gristey, OMNR, Thomas.gristey@ontario.ca 
+
+Experiences from other landlocked Atlantic salmon systems highlight several research priorities that are directly relevant to Lake Ontario. Work in Lac Saint-Jean demonstrates that managing prey abundance and habitat can be as important as stocking when rebuilding adult runs, while case studies from Saimaa, 
+
+Vänern
+
+, and 
+
+Byglandsfjorden
+
+ emphasize that long-term success depends on reconnecting and restoring critical spawning and nursery habitats fragmented by hydropower. 
+
+Re-introduction programs in Lake Champlain, Sebago Lake, and elsewhere show that smolt stocking, lamprey and predator control, thiamine mitigation, and improved passage can eventually lead to natural reproduction, but only when these factors are addressed in combination. Building on these lessons, future research in Lake Ontario should integrate prey and food-web studies, strain evaluation (including Low-TT), detailed behaviour and movement and passage studies (via PIT, acoustic telemetry, and 
+
+RiverWatcher
+
+), and targeted habitat and barrier assessments. Comparative analyses with Champlain and other systems will help identify which combinations of stocking strategy, prey management, and habitat restoration are most likely to support a self-sustaining Atlantic Salmon population in Lake Ontario.
+
+Science Advisory Document/Research Priorities: To structure these efforts in Lake Ontario, the Atlantic Salmon Working Group should develop a comprehensive Science Advisory Document. This document will outline research questions and priorities in Atlantic salmon restoration, update "best bet" streams for late-stage stocking using current knowledge and guide the allocation of lake-wide resources towards monitoring and assessment. The development of a Science Advisory Document for LOC by the Atlantic Salmon Working Group is consistent with current LOC charges and could include the following examples to inform bi-national restoration:
+
+Biological and Physiological Assessment: To understand the physiological constraints on restoration, integrated biological monitoring is essential. This includes:
+
+Thiamine Monitoring: Partnering with other restoration programs (e.g., Lake Trout, 
+
+Coregonines
+
+) to monitor thiamine levels on a whole-lake scale, identifying trends that affect recruitment across species.
+
+Diet and Stable Isotope Analyses: Conducting further stable isotope investigations to determine if some Atlantic Salmon are diet-switching away from Alewife, thereby reducing thiamine deficiency risk. Further investigating the mechanism of the variance observed in thiamine levels.
+
+Genetics: Implementing lake-wide genetic monitoring to detect wild recruitment and successful stocked strains (Low-TT strain).
+
+Spatial Ecology, Habitat and Fishery: Understanding movement, catch rates and habitat use is critical for validating the new stocking strategies. Priorities include:
+
+Telemetry: expanding acoustic and radio telemetry networks to assess lake-wide adult survival, migration timing, and fidelity to stocking sites (building on the LFP tagging initiatives).
+
+Habitat Assessment: Identifying and assessing barriers in tributaries to ensure that returning adults, particularly those from fall-yearling stockings, can access suitable spawning grounds.
+
+Creel Surveys: Expanding creel surveys on both the north and south shores to assess overall adult abundance and angler harvest in the open-lake and tributary fishery. Or using new and/or innovative approaches and analyses could be explored to assist with this assessment (See Collaboration).
+
+Implementing these priorities through a formalized Science Advisory Document will shift the program from observational monitoring to a mechanism-based adaptive management approach. By integrating research priorities managers can allocate and potentially enhance stocking strategies and support more comprehensive restoration efforts, while gaining a clearer understanding of where success is occurring.  This evidence-based approach helps identify key factors limiting recruitment and ensure that agency resources are directed towards actions most likely to achieve the long-term goal of a self-sustaining Atlantic Salmon population.
+
+Ideally, this advisory document would focus on answering a sequence of fundamental questions: Can stocked fish survive in the lake and return to suitable rivers? Can returning adults navigate barriers and access quality spawning habitat? Can they successfully reproduce given thiamine deficiency and other ecological constraints? And can the resulting wild-origin fish be reliably detected? With recent increases in adult survival and returns, there is a timely opportunity to leverage these fish to begin addressing these questions. Addressing them in sequence will allow managers to identify where in the restoration pathway bottlenecks exist and direct resources accordingly.
+
+5.3 Updating Fish Community Objectives
+
+Thomas Gristey, OMNR, Thomas.gristey@ontario.ca 
+
+Fish community objectives (FCOs) for the Lake Ontario fish community are established by the Lake Ontario Committee (LOC) and updated in accordance with A Joint Strategic Plan for Management of Great Lakes Fisheries (Joint Plan) (GLFC 2007). The LOC is composed of fishery managers from the NYSDEC and OMNR. The Joint Plan charged the LOC with defining objectives for the fish community and developing means to measure progress toward their achievement. The LOC previously published FCOs for Lake Ontario in 1991 and 1999 (Kerr and Letendre 1991; Stewart et al. 1999). The current Fish Community Objectives (FCOs) for Lake Ontario regarding Atlantic Salmon reflect an earlier phase of the restoration program. Specifically, Objective 2.2: Restore Atlantic Salmon populations and fisheries rely on rigid, site-specific indicators that no longer align with the program's adaptive management approach.
+
+Updating these objectives will align the high-level policy goals and objectives with OMNR's and NYSDEC's current approaches. It will also reflect the current science-based, adaptive restoration strategy and provide a more accurate benchmark for measuring and monitoring the success of the program.
+
+Summary of Current FCOs: The existing objectives focus heavily on establishing self-sustaining wild populations in a static list of specific rivers and creeks.
+
+Ontario Status Indicators: Explicitly target "increasing adult spawning returns and wild production" in four specific streams: the Credit River, 
+
+Duffins
+
+ Creek, Cobourg Brook, and Humber River.
+
+New York Progress Indicators: Focus exclusively on "increasing wild production" in the Salmon River system and returns to Beaverdam Brook.
+
+Limitation: By naming specific tributaries, the current FCOs lack the flexibility to address changing environmental conditions or to incorporate successful new stocking sites (e.g., 
+
+Ganaraska
+
+ River, Lakefront Promenade) that have become central to the current strategy. Furthermore, the exclusive focus on "wild production" as the primary measure of success fails to capture the intermediate value of establishing a recreational fishery that builds angler engagement while addressing impediments to restoration.
+
+Recommendations for Updated FCOs: To support a holistic, lake-wide approach with active monitoring, the FCOs for Atlantic Salmon should be updated to reflect the following:
+
+Shift from Specific Streams: Remove prescriptive lists of named streams (e.g., removing specific references to Cobourg Brook or limiting focus to the Credit/Humber). Instead, objectives should aim to "restore self-sustaining populations in priority watersheds selected through adaptive management, allowing agencies to direct resources to streams with the highest potential (e.g., 
+
+Ganaraska
+
+ River) without requiring formal FCO amendments.
+
+Incorporate Recreational Fishery Quality Objectives: Expand the objectives to value the recreational fishery created by stocking efforts explicitly. Indicators should not only measure wild production but also "maintain and enhance diverse angling opportunities for Atlantic Salmon in the open lake and tributaries," recognizing the success of nearshore stocking programs (e.g., Lakefront Promenade) in generating angler enthusiasm. These could include open-water creel and catch rates as an objective.
+
+Adopt Holistic, Lake-Wide Indicators: Move beyond simple tributary-specific counts. Updated status indicators should reflect the broader ecosystem health required for restoration.
+
+Updating these objectives will align the high-level policy goals and objectives with OMNR's and NYSDEC's current approaches. It will also reflect the current science-based, adaptive restoration strategy and provide a more accurate benchmark for measuring and monitoring the success of the program.
+
+5.4 Collaboration
+
+Thomas Gristey, OMNR, Thomas.gristey@ontario.ca 
+
+Restoration success relies on a broad network of partners beyond the core agencies. Strengthening relationships with academic institutions, conservation authorities, and angler groups is important for addressing restoration questions, fostering public support, and securing the expertise and resources needed.
+
+Angler Engagement: Anglers are a critical source of data for adult Atlantic Salmon in Lake Ontario. The program should expand engagement with angling groups to promote identification and reporting. Initiatives could include angler diary projects or a broader bi-national reporting tool to coordinate observations and potential angler collections. Promoting these tools at salmon derbies would allow for the collection of basic but valuable assessment data regarding catch rates and distribution.
+
+Partnerships: The working group should actively engage academia to address  key questions regarding bioenergetics, spatial use, imprinting, survival bottlenecks and restoration ecology. Furthermore, the Working Group should expand to include Conservation Authorities and other environmental organizations conducting monitoring in priority watersheds. Strengthening ties with broader environmental networks and other collaborative groups, particularly through linkages to Lake Ontario, will create forums for sharing ideas, data, and monitoring efforts for land-locked Atlantic Salmon. Leveraging these partnerships will improve understanding of watershed processes, support decision-making tools, and promote the exchange of scientific knowledge for restoration.
+
+Landlocked Atlantic salmon symposium: Finally, to understand landlocked Atlantic salmon restoration and ensure that Lake Ontario remains aligned with best practices, the Working Group could plan a Landlocked Atlantic Salmon Symposium. This event would ideally bring together experts from regions such as Maine and the Lake Champlain region, and potentially from Europe/Scandinavia, to share lessons learned and refine management levers for successful restoration. This event could be hosted virtually and call for abstracts and research presentations on restoration from various lakes. 
+
+6. Conclusion
+
+Thomas Gristey, OMNR, Thomas.gristey@ontario.ca 
+
+The restoration of Atlantic Salmon in Lake Ontario represents a significant ecological and management challenge. This document has outlined the shift toward stocking advanced life stages by both Canada and the US. Current work on addressing impediments such as thiamine deficiency and other environmental interactions, current assessment projects utilizing acoustic telemetry, PIT tag returns and genetic monitoring. Equally important is to establish benchmarks for monitoring the program's success and to recommend updating our Fish Community Objectives; strengthening our collaborative networks and ensuring that policy and partnerships keep pace with our scientific understanding of restoration efforts. 
+
+Current Status Assessment
+
+Recent data indicate measurable improvements in post-stocking performance. Adult returns to Lakefront Promenade have increased following the shift to fall yearling stocking, with documented returns now sufficient to support localized angling opportunities. Lake-wide creel data suggest increasing catch rates, though distinguishing the relative contributions of Ontario versus New York stocking, and Sebago versus Low-TT strains, requires continued monitoring through 2026-2027. Egg thiamine analysis from returning adults (2023-2024, n=36) revealed substantial individual variation (range: 1-22.8 nmol/g), with 25% of sampled females exceeding the EC50 threshold (5.46 nmol/g), suggesting that diet variation or physiological factors may create exploitable differences in TDC susceptibility within the population.
+
+The transition from early life-stage stocking (fry, fingerlings) to advanced life-stage stocking (spring yearlings, fall yearlings) reflects adaptive management informed by comparative survival data from the upper Great Lakes, Lake Champlain, and initial Lake Ontario trials. This shift may address a potential unknown survival bottleneck: extended residence in tributaries during vulnerable juvenile stages could expose fish to elevated predation, thermal stress, and competitive interactions with established pacific salmonids. By stocking fish that can immediately disperse into the lake or stay relatively “low” in the tributaries, post-stocking mortality appears reduced, though quantification requires completion of the ongoing PIT tag (2024-2027) and acoustic telemetry (2025-2028) studies.
+
+Outstanding Technical Questions:
+
+Several critical uncertainties remain that limit our understanding and limit the optimization of stocking strategies:
+
+Life-stage comparative survival: Direct quantification of fall versus spring yearling survival to adulthood, accounting for differential hatchery costs and rearing space constraints, is required to optimize production/stocking allocation. PIT tag returns from the 2024-2026 cohorts will help provide the first estimates.
+
+Imprinting and natal homing: Whether advanced life-stage fish stocked at nearshore locations (e.g., Lakefront Promenade) can successfully imprint and return to suitable spawning tributaries remains unconfirmed. Stocked fish at Lakefront Promenade are showing some evidence of returning to the stocking location, however this area does not have high-quality spawning habitat. These remains untested at other locations and warrants future investigation at stocking locations with high quality spawning habitat. 
+
+Strain performance under field conditions: Laboratory trials (Mitchell et al. 2021) did not detect significant TDC tolerance differences among Sebago, 
+
+LaHave
+
+, and St. Jean strains when egg thiamine was reduced to 11 nmol/g, likely above the threshold required to induce severe TDC. Field evaluation of the Low-TT strain (2023-2025 stockings) using parentage-based tagging will provide direct comparison under natural Lake Ontario dietary conditions, with returns expected 2025-2028.
+
+Management Implications and Adaptive Actions:
+
+The evidence base supports continuation and refinement of the current strategy, with the following technical adjustments:
+
+Stocking Optimization: Maintain focus on spring and fall yearlings stocked at or near tributary mouths. Evaluate temperature-based release timing (targeting 8-11°C, corresponding to natural smolt migration windows) to release with optimal physiological state and minimize post-stocking predation. Investigate hatchery modifications to reduce fin erosion in advanced life stage fish, evaluate hatchery feeding methods to decrease  
+
+habitualization
+
+ and  angling/predation vulnerability immediately post-release. 
+
+Integrated Monitoring Framework: Continue PIT tagging and acoustic telemetry to quantify survival, movement, and site fidelity. Expand genetic sampling of angler-caught and returning adults to assess strain composition, detect F1 offspring, and evaluate Low-TT performance. Coordinate thiamine monitoring across Lake Trout and Atlantic Salmon programs to achieve lake-wide coverage at reduced per-species cost. Implement standardized tributary juvenile surveys in priority watersheds to detect natural reproduction.
+
+Research Prioritization: The Science Advisory Document could be developed by the Atlantic Salmon Working Group and should formalize research priorities and assign lead responsibilities. Priority questions should be organized around the sequential stages of restoration success: (1) whether stocked fish can survive and return to suitable rivers, including post-stocking survival and return rates across life stages and locations, spatial use and imprinting of advanced life stages, comparative strain performance of the Low-TT strains, and bioenergetic demands relative to prey availability and competing predators; (2) whether returning adults can access suitable spawning habitat, through quantification of barrier passage rates, standardized habitat mapping in priority watersheds, and evaluation of migration timing and run strength; (3) whether Atlantic Salmon can successfully reproduce given thiamine and other constraints, including continued egg thiamine monitoring alongside other restoration species, diet analysis to assess non-alewife prey use and its relationship to thiamine status and whether current strains can successfully reproduce, and field evaluation of the Low-TT strain; and (4) whether naturally produced fish can be reliably detected, through observations or genetic monitoring using parentage-based tagging, consistent young-of-year sampling in priority tributaries, and of complementary approaches such as environmental DNA (eDNA).
+
+Fish Community Objectives Update: Current FCOs specify restoration targets for named tributaries (Credit River, 
+
+Duffins
+
+ Creek, Cobourg Brook, Humber River in Ontario; Salmon River, Beaverdam Brook in New York) and emphasize wild production as the sole success metric. This framework constrains adaptive allocation of stocking effort and fails to recognize the recreational fishery value generated by the current program. Proposed revisions could: (1) replace tributary-specific targets with "priority watershed" language allowing reallocation based on performance data, (2) incorporate recreational fishery metrics (e.g., lake-wide catch targets, tributary return targets) as interim success indicators, and (3) establish tiered milestones distinguishing short-term (fishery establishment), medium-term (consistent adult returns), and long-term (natural reproduction) objectives.
+
+Coordination:
+
+Binational coordination through the Atlantic Salmon Working Group provides the institutional framework for data sharing, joint research planning, and management alignment. Coordination needs include: (1) joint development of the Science Advisory Document to direct research and assessment, (2) standardized genetic sample collection protocols and analysis to enable lake-wide strain assessment, (3) coordinated FCO revision to ensure consistent binational objectives, and (4) regular communication regarding stocking plans to prevent unintended confounding of experiments (fin clips etc.).
+
+Engagement with academic partners remains essential for addressing research questions beyond agency capacity. Conservation Authorities and other regional groups could provide habitat enhancement and public outreach functions. Increasing angler engagement through creel surveys and reporting programs will strengthen monitoring capacity.
+
+Pathway to Self-Sustaining Populations:
+
+Achievement of natural reproduction requires the combined resolution of multiple constraints in the Lake Ontario environment. Thiamine deficiency must be managed through either strain selection (if Low-TT demonstrates increased success) or continued broodstock supplementation and/or reliance on the natural variation in thiamine levels seen in adult fish, or diversification of the prey base. Habitat connectivity must be restored in priority watersheds through barrier removal or fishway construction, guided by quantitative habitat assessment and cost-benefit analysis. Spawning competition from brown trout, rainbow trout, Chinook, and coho salmon may require tributary-specific management. Predation on juveniles, while substantial, is harder to directly manage; habitat complexity enhancement and strategic release location selection and monitoring offer the most feasible restoration approaches.
+
+International case studies demonstrate that supportive stocking can transition to self-sustaining populations when combined with habitat restoration. In Lake Champlain, natural reproduction has been documented following decades of smolt stocking and recent barrier mitigation. In the St. Mary's River (Lake Huron), temperature-based smolt release protocols have sustained a recreational fishery with evidence of spawning attempts. In Saimaa and 
+
+Vänern
+
+, restoration required reconnection of spawning habitat above hydropower facilities before stocking produced lasting recruitment gains. These examples suggest that Lake Ontario restoration is feasible but will require sustained investment in connecting and restoring these habitats.
+
+The restoration of Atlantic Salmon in Lake Ontario has progressed from experimental stocking across multiple strains and life stages to a more focused and adaptive strategy centered on advanced life-stage fish, priority watersheds, and coordinated binational assessment. Evidence gathered to date suggests that post-stocking survival has improved sufficiently to support adult returns, localized recreational opportunities, and the development of monitoring programs capable of addressing the major technical questions that continue to limit restoration. Over the next 3-5 years, ongoing PIT tag, acoustic telemetry, genetic, and thiamine monitoring studies will be important for quantifying survival, evaluating strain and stocking performance, improving understanding of movement and imprinting, and assessing whether natural reproduction can be achieved under current Lake Ontario conditions. Although important impediments remain, including thiamine deficiency, habitat access, spawning success, and juvenile survival, the current approach provides the strongest available framework for making measurable progress. Continued adaptive management, targeted research, coordinated policy updates, and strong collaboration among OMNR, NYSDEC, USFWS, and other partners will be essential to translate recent gains into long-term restoration outcomes. With sustained commitment, the program can continue to rebuild Atlantic Salmon as both a component of Lake Ontario biodiversity and a valuable part of the lake’s recreational fishery.
+
+References 
+
+Aarestrup, K., Jepsen, N., Rasmussen, G., & 
+
+Òkland
+
+, F. (1999). Movements of two strains of radio tagged 
+
+Altlantic
+
+ salmon, Salmo 
+
+salar
+
+ L., smolts through a reservoir. Fisheries Management and Ecology, 6(2), 97–107. https://doi.org/10.1046/j.1365-2400.1999.00132.x
+
+Ashmore, P., McDonald, J., & Barlow, V. (2023). Multi-decadal changes in river morphology in an urbanizing watershed: Highland Creek, Toronto, Canada. Geomorphology, 433, 108710. https://doi.org/10.1016/j.geomorph.2023.108710
+
+Borggaard, D., Dick, D., Star, J., Alexander, M., Bernier, M., Collins, M., Damon-Randall, K., Dudley, R. W., Roger Griffis, R., Hayes, S., Johnson, M., 
+
+Kircheis
+
+, D., Kocik, J., Letcher, B., Mantua, N., Morrison, W., 
+
+Nislow
+
+, K., Saba, V., Saunders, R., … Staudinger, M. (2019). Atlantic Salmon (Salmo 
+
+salar
+
+) climate scenario planning pilot report (Report Nos. 19–05; Greater Atlantic Region 
+
+Pollicy
+
+ Series). USGS Publications Warehouse. https://pubs.usgs.gov/publication/70216826
+
+Bouwes
+
+, N., Weber, N., Jordan, C. E., Saunders, W. C., 
+
+Tattam
+
+, I. A., Volk, C., Wheaton, J. M., & Pollock, M. M. (2016). Ecosystem experiment reveals benefits of natural and simulated beaver dams to a threatened population of steelhead (Oncorhynchus mykiss). Scientific Reports, 6(1), 28581. https://doi.org/10.1038/srep28581
+
+Brazier, R. E., Puttock, A., Graham, H. A., Auster, R. E., Davies, K. H., & Brown, C. M. L. (2021). Beaver: Nature’s ecosystem engineers. WIREs Water, 8(1), e1494. https://doi.org/10.1002/wat2.1494
+
+Calduch-Verdiell
+
+, N., 
+
+MacKenzie
+
+, B. R., Vaupel, J. W., & Andersen, K. H. (2014). A life-history evaluation of the impact of maternal effects on recruitment and fisheries reference points. Canadian Journal of Fisheries and Aquatic Sciences, 71(7), 1113–1120. https://doi.org/10.1139/cjfas-2014-0034
+
+Chaput, G., Carr, J., Daniels, J., Tinker, S., Jonsen, I., & Whoriskey, F. (2019). Atlantic salmon (Salmo 
+
+salar
+
+) smolt and early post-smolt migration and survival inferred from multi-year and multi-stock acoustic telemetry studies in the Gulf of St. Lawrence, northwest Atlantic. ICES Journal of Marine Science, 76(4), 1107–1121. https://doi.org/10.1093/icesjms/fsy156
+
+Christie, W. J. (1972). Lake Ontario: Effects of Exploitation, Introductions, and Eutrophication on the Salmonid Community. Journal of the Fisheries Research Board of Canada, 29(6), 913–929. https://doi.org/10.1139/f72-134
+
+Coghlan, S. M., Cain, G. R., & Ringler, N. H. (2007). Prey Selection of 
+
+Subyearling
+
+ Atlantic Salmon and Rainbow Trout Coexisting in a Natural Stream. Journal of Freshwater Ecology, 22(4), 591–607. https://doi.org/10.1080/02705060.2007.9664820
+
+COSEWIC. (2006). COSEWIC assessment and status report on the Atlantic salmon, Salmo 
+
+salar
+
+, Lake Ontario population in Canada. Committee on the Status of Endangered Wildlife in Canada. https://publications.gc.ca/site/eng/9.560509/publication.html
+
+Daniels, J., Sutton, S., Webber, D., & Carr, J. (2019). Extent of predation bias present in migration survival and timing of Atlantic salmon smolt (Salmo 
+
+salar
+
+) as suggested by a novel acoustic tag. Animal Biotelemetry, 7(1), 16. https://doi.org/10.1186/s40317-019-0178-2
+
+De 
+
+Mestral
+
+, L. G., & 
+
+Herbinger
+
+, C. M. (2013). Reduction in antipredator response detected between first and second generations of endangered juvenile Atlantic salmon Salmo 
+
+salar
+
+ in a captive breeding and rearing programme. Journal of Fish Biology, 83(5), 1268–1286. https://doi.org/10.1111/jfb.12221
+
+Dimond, P., & Smitka, P. (2005). Evaluation of selected strains of Atlantic salmon as potential candidates for the restoration of Lake Ontario—Trout Unlimited Canada Technical Report ON-12.
+
+Dymond, J. R., MacKay, H. H., Burridge, M. E., Holm, E., & Bird, P. W. (2019). The history of the Atlantic Salmon in Lake Ontario. Aquatic Ecosystem Health & Management, 22(3), 305–315. https://doi.org/10.1080/14634988.2019.1641044
+
+Einum
+
+, S., & Fleming, I. A. (2000). SELECTION AGAINST LATE EMERGENCE AND SMALL OFFSPRING IN ATLANTIC SALMON (SALMO SALAR). Evolution, 54(2), 628–639. https://doi.org/10.1111/j.0014-3820.2000.tb00064.x
+
+Einum
+
+, S., & 
+
+Nislow
+
+, K. H. (2005). Local-scale density-dependent survival of mobile organisms in continuous habitats: An experimental test using Atlantic salmon. 
+
+Oecologia
+
+, 143(2), 203–210. https://doi.org/10.1007/s00442-004-1793-y
+
+Falkegård
+
+, M., Lennox, R. J., Thorstad, E. B., 
+
+Einum
+
+, S., Fiske, P., Garmo, Ø. A., 
+
+Garseth
+
+, Å. H., Skoglund, H., Solberg, M. F., Utne, K. R., 
+
+Vollset
+
+, K. W., 
+
+Vøllestad
+
+, L. A., 
+
+Wennevik
+
+, V., & Forseth, T. (2023). Predation of Atlantic salmon across ontogenetic stages and impacts on populations. Canadian Journal of Fisheries and Aquatic Sciences, 80(10), 1696–1713. https://doi.org/10.1139/cjfas-2023-0029
+
+Fisher, J. P., & Pearcy, W. G. (1988). Growth of Juvenile Coho Salmon ( Oncorhynchus kisutch ) off Oregon and Washington, USA, in Years of Differing Coastal Upwelling. Canadian Journal of Fisheries and Aquatic Sciences, 45(6), 1036–1044. https://doi.org/10.1139/f88-127
+
+Fitzpatrick, K. B., Weidel, B., Connerton, M. J., Lantry, J. R., Holden, J. P., Yuille, M. J., Lantry, B. F., 
+
+LaPan
+
+, S. R., 
+
+Rudstam
+
+, L. G., Sullivan, P. J., Brenden, T. O., & Sethi, S. (2022). Balancing prey availability and predator consumption: A multispecies stock assessment for Lake Ontario. Canadian Journal Fisheries and Aquatic Sciences, 79. https://doi.org/10.1139/cjfas-2021-0126
+
+Fitzsimons, J. D., Brown, S. B., & El-
+
+Shaarawi
+
+, A. H. (2021). Reduced thiamine utilization by Seneca Lake 
+
+lake
+
+ trout embryos and potential implications to restoration of lake trout in the Great Lakes. Environmental Biology of Fishes, 104(7), 751–766. https://doi.org/10.1007/s10641-021-01109-4
+
+Flávio, H., Kennedy, R., Ensing, D., Jepsen, N., & Aarestrup, K. (2020). Marine mortality in the river? Atlantic salmon smolts under high predation pressure in the last kilometres of a river monitored for stock assessment. Fisheries Management and Ecology, 27(1), 92–101. https://doi.org/10.1111/fme.12405
+
+Genovart
+
+, M., Negre, N., 
+
+Tavecchia
+
+, G., 
+
+Bistuer
+
+, A., 
+
+Parpal
+
+, L., & Oro, D. (2010). The Young, the Weak and the Sick: Evidence of Natural Selection by Predation. 
+
+PLoS
+
+ ONE, 5(3), e9774. https://doi.org/10.1371/journal.pone.0009774
+
+Gibson, R. J. (1993). The Atlantic salmon in fresh water: Spawning, rearing and production. Reviews in Fish Biology and Fisheries, 3(1), 39–73. https://doi.org/10.1007/BF00043297
+
+Glass, C. (2010). An Evaluation of the Reintroduction of Atlantic Salmon to Lake Ontario and its Tributaries. http://hdl.handle.net/10012/5499
+
+Gotceitas
+
+, V., & Godin, J.-G. J. (1992). Effects of location of food delivery and social status on foraging-site selection by juvenile Atlantic salmon. Environmental Biology of Fishes, 35(3), 291–300. https://doi.org/10.1007/BF00001896
+
+Hanssen, E. M., 
+
+Vollset
+
+, K. W., 
+
+Salvanes
+
+, A. G. V., 
+
+Barlaup
+
+, B., Whoriskey, K., Isaksen, T. E., Normann, E. S., 
+
+Hulbak
+
+, M., & Lennox, R. J. (2022). Acoustic telemetry predation sensors reveal the tribulations of Atlantic salmon ( Salmo 
+
+salar
+
+ ) smolts migrating through lakes. Ecology of Freshwater Fish, 31(2), 424–437. https://doi.org/10.1111/eff.12641
+
+Haraldstad, T., Kroglund, F., Kristensen, T., Jonsson, B., & Haugen, T. O. (2017). Diel migration pattern of A 
+
+tlantic
+
+ salmon ( S 
+
+almo
+
+ 
+
+salar
+
+ ) and sea trout ( S 
+
+almo
+
+ trutta ) smolts: An assessment of environmental cues. Ecology of Freshwater Fish, 26(4), 541–551. https://doi.org/10.1111/eff.12298
+
+Hawkins, L. A., Armstrong, J. D., & 
+
+Magurran
+
+, A. E. (2004). Predator‐induced hyperventilation in wild and hatchery Atlantic salmon fry. Journal of Fish Biology, 65(s1), 88–100. https://doi.org/10.1111/j.0022-1112.2004.00543.x
+
+Heggenes
+
+, J., 
+
+Baglinière
+
+, J.-L., & 
+
+Cunjak
+
+, R. A. (2006). Spatial niche variability for young Atlantic salmon (Salmo 
+
+salar
+
+) and brown trout (S. trutta) in heterogeneous streams. Ecology of Freshwater Fish, 8, 1–21. https://doi.org/10.1111/j.1600-0633.1999.tb00048.x
+
+Heggenes
+
+, J., 
+
+Saltveit
+
+, S. J., & 
+
+Lingaas
+
+, O. (1996). Predicting Fish Habitat Use to Changes in Water Flow: Modelling Critical Minimum Flows for Atlantic Salmon, Salmo Salar, and Brown Trout, S. Trutta. Regulated Rivers: Research & Management, 12(2–3), 331–344. https://doi.org/10.1002/(SICI)1099-1646(199603)12:2/3%253C331::AID-RRR399%253E3.0.CO;2-E
+
+Heim, K. C., 
+
+Ardren
+
+, W. R., Withers, J. L., Eisenhauer, Z. J., Mensinger, M. A., & Castro-Santos, T. (2025). Spatial variation in landlocked Atlantic Salmon smolt survival associated with dam passage, avian predation, and stocking location. North American Journal of Fisheries Management, 45(1), 1–14. https://doi.org/10.1093/najfmt/vqae002
+
+Höjesjö
+
+, J., Armstrong, J. D., & Griffiths, S. W. (2005). Sneaky feeding by salmon in sympatry with dominant brown trout. Animal Behaviour, 69(5), 1037–1041. https://doi.org/10.1016/j.anbehav.2004.09.007
+
+Houde, A. L. S., Fraser, D. J., & Hutchings, J. A. (2010). Reduced anti-predator responses in multi-generational hybrids of farmed and wild Atlantic salmon (Salmo 
+
+salar
+
+ L.). Conservation Genetics, 11(3), 785–794. https://doi.org/10.1007/s10592-009-9892-2
+
+Houde, A. L. S., Smith, A. D., Wilson, C. C., Peres-Neto, P. R., & Neff, B. D. (2016). Competitive effects between rainbow trout and Atlantic salmon in natural and artificial streams. Ecology of Freshwater Fish, 25(2), 248–260. https://doi.org/10.1111/eff.12206
+
+Houde, A. L., Wilson, C., & Neff, B. (2015a). Competitive interactions among multiple non-native salmonids and two populations of Atlantic salmon. Ecology of Freshwater Fish, 24, 44–55. https://doi.org/10.1111/eff.12123
+
+Houde, A. L., Wilson, C., & Neff, B. (2015b). Effects of Competition with Four Nonnative Salmonid Species on Atlantic Salmon from Three Populations. Transactions of the American Fisheries Society, 144, 1081–1090. https://doi.org/10.1080/00028487.2015.1064477
+
+Huntingford
+
+, F. A., Metcalfe, N. B., & Thorpe, J. E. (1988). Feeding motivation and response to predation risk in Atlantic salmon parr adopting different life history strategies. Journal of Fish Biology, 32(5), 777–782. https://doi.org/10.1111/j.1095-8649.1988.tb05416.x
+
+Ibbotson, A. T., Beaumont, W. R. C., & Pinder, A. C. (2011). A size-dependent migration strategy in Atlantic salmon smolts: Small smolts favour nocturnal migration. Environmental Biology of Fishes, 92(2), 151–157. https://doi.org/10.1007/s10641-011-9824-0
+
+Ibbotson, A. T., Beaumont, W. R. C., Pinder, A., Welton, S., & Ladle, M. (2006). Diel migration patterns of Atlantic salmon smolts with 
+
+particular reference
+
+ to the absence of crepuscular migration. Ecology of Freshwater Fish, 15(4), 544–551. https://doi.org/10.1111/j.1600-0633.2006.00194.x
+
+Ives, J. T., McMeans, B. C., McCann, K. S., Fisk, A. T., Johnson, T. B., Bunnell, D. B., Frank, K. T., & Muir, A. M. (2019). Food-web structure and ecosystem function in the Laurentian Great Lakes—Toward a conceptual model. Freshwater Biology, 64(1), 1–23. https://doi.org/10.1111/fwb.13203
+
+Jackson, C. D., & Brown, G. E. (2011). Differences in antipredator behaviour between wild and hatchery-reared juvenile Atlantic salmon ( Salmo 
+
+salar
+
+ ) under seminatural conditions. Canadian Journal of Fisheries and Aquatic Sciences, 68(12), 2157–2166. https://doi.org/10.1139/f2011-129
+
+Jepsen, N., Aarestrup, K., Økland, F., & Rasmussen, G. (1998). Survival of 
+
+radiotagged
+
+ Atlantic salmon (Salmo 
+
+salar
+
+ L.) – and trout (Salmo trutta L.) smolts passing a reservoir during seaward migration. 
+
+Hydrobiologia
+
+, 371–372(0), 347–353. https://doi.org/10.1023/A:1017047527478
+
+Jepsen, N., Holthe, E., & Økland, F. (2006). Observations of predation on salmon and trout smolts in a river mouth. Fisheries Management and Ecology, 13(5), 341–343. https://doi.org/10.1111/j.1365-2400.2006.00509.x
+
+Jepsen, N., Pedersen, S., & Thorstad, E. (2000). Behavioural interactions between prey (trout smolts) and predators (pike and pikeperch) in an impounded river. Regulated Rivers Research & Management, 16(2), 189–198.
+
+Johnson, J. E., DeWitt, S. P., & Clevenger, J. A. (2007). Causes of Variable Survival of Stocked Chinook Salmon in Lake Huron.
+
+Johnson, J. H. (2008). Seasonal Habitat Use of Brook Trout and Juvenile Atlantic Salmon in a Tributary of Lake Ontario. Northeastern Naturalist, 15(3), 363–374. https://doi.org/10.1656/1092-6194-15.3.363
+
+Johnson, J. H. (2013). Habitat use and diet composition of juvenile Atlantic salmon in a tributary of Lake Ontario. Journal of Great Lakes Research, 39(1), 162–167. https://doi.org/10.1016/j.jglr.2012.12.001
+
+Johnson, J. H., Abbett, R., 
+
+Chalupnicki
+
+, M. A., & 
+
+Verdoliva
+
+, F. (2016). Seasonal habitat use of brook trout and juvenile steelhead in a Lake Ontario tributary. Journal of Freshwater Ecology, 31(2), 239–249. https://doi.org/10.1080/02705060.2015.1123655
+
+Johnson, J. H., & McKenna, J. E. (2017). Habitat use by juvenile salmonids in Lake Ontario tributaries-species, age, diel and seasonal effects. Journal of Great Lakes Research, Special Section on Lake Ontario CSMI 2013, 43(5), 963–969. https://doi.org/10.1016/j.jglr.2017.07.001
+
+Johnson, J. H., & McKenna Jr., J. E. (2015). Diel Resource Partitioning among Juvenile Atlantic Salmon, Brown Trout, and Rainbow Trout during Summer. North American Journal of Fisheries Management, 35(3), 586–597. https://doi.org/10.1080/02755947.2015.1017121
+
+Johnson, J. H., Nack, C. C., & McKenna, J. E. (2010). Migratory salmonid 
+
+redd
+
+ habitat characteristics in the Salmon River, New York. Journal of Great Lakes Research, 36(2), 387–392. https://doi.org/10.1016/j.jglr.2010.02.012
+
+Johnson, J. H., Nash, K. J., Chiavelli, R. A., DiRado, J. A., Mackey, G. E., Knight, J. R., & Diaz, A. R. (2017). Diet, feeding patterns, and prey selection of 
+
+subyearling
+
+ Atlantic salmon ( Salmo 
+
+salar
+
+ ) and 
+
+subyearling
+
+ chinook salmon ( Oncorhynchus tshawytscha ) in a tributary of Lake Ontario. Journal of Applied Ichthyology, 33(3), 502–508. https://doi.org/10.1111/jai.13335
+
+Johnson, J., & McKenna, J. (2017). Habitat use by juvenile salmonids in Lake Ontario tributaries-species, age, diel and seasonal effects. Journal of Great Lakes Research, 43. https://doi.org/10.1016/j.jglr.2017.07.001
+
+Johnsson, J. I., 
+
+Höjesjö
+
+, J., & Fleming, I. A. (2001). Behavioural and heart rate responses to predation risk in wild and domesticated Atlantic salmon. Canadian Journal of Fisheries and Aquatic Sciences, 58(4), 788–794. https://doi.org/10.1139/f01-025
+
+Kennedy, R. J., Rosell, R., Millane, M., Doherty, D., & Allen, M. (2018). Migration and survival of Atlantic salmon Salmo 
+
+salar
+
+ smolts in a large natural lake. Journal of Fish Biology, 93(1), 134–137. https://doi.org/10.1111/jfb.13676
+
+Ketola, H. G., Bowser, P. R., Wooster, G. A., Wedge, L. R., & Hurst, S. S. (2000). Effects of thiamine on reproduction of Atlantic salmon and a new hypothesis for their extirpation in Lake Ontario. Transactions of the American Fisheries Society, 129(2), 607–612. https://doi.org/10.1577/1548-8659(2000)129%253C0607:EOTORO%253E2.0.CO;2
+
+Koed, A., Baktoft, H., & Bak, B. D. (2006). Causes of mortality of Atlantic salmon (Salmo 
+
+salar
+
+) and brown trout (Salmo trutta) smolts in a restored river and its estuary. River Research and Applications, 22(1), 69–78. https://doi.org/10.1002/rra.894
+
+Larocque, S. M., Johnson, T. B., & Fisk, A. T. (2020). Survival and migration patterns of naturally and hatchery‐reared Atlantic salmon ( Salmo 
+
+salar
+
+ ) smolts in a Lake Ontario tributary using acoustic telemetry. Freshwater Biology, 65(5), 835–848. https://doi.org/10.1111/fwb.13467
+
+Larocque, S. M., Johnson, T. B., & Fisk, A. T. (2021). Trophic niche overlap and abundance reveal potential impact of interspecific interactions on a reintroduced fish. Canadian Journal of Fisheries and Aquatic Sciences, 78, 765–774. https://doi.org/10.1139/cjfas-2020-0204
+
+Larocque, S. M., S. F. Colborne, A. T. Fisk, and T. B. Johnson. (2022a). Improving trophic niche and diet resolution of the salmonid community of Lake Ontario using three stable isotopes and multiple tissues. Fisheries Research 255:106455.
+
+Larocque, S. M., Lake, C., Johnson, T. B., & Fisk, A. T. (2022b). Patterns in spatial use of land-locked Atlantic salmon (Salmo 
+
+salar
+
+) in a large lake. Journal of Great Lakes Research, 48(2), 381–391. https://doi.org/10.1016/j.jglr.2021.12.002
+
+Lau, M. J., Wilson, C. C., & Neff, B. D. (2021). Innate and learned predator recognition across populations of Atlantic salmon, Salmo 
+
+salar
+
+. Ethology, 127(7), 563–571. https://doi.org/10.1111/eth.13163
+
+Leinonen, T., Piironen, J., Koljonen, M. L., Koskiniemi, J., & Kause, A. (2020). Restored river habitat provides a natural spawning area for a critically endangered landlocked Atlantic salmon population. 
+
+PloS
+
+ one, 15(5), e0232723. https://doi.org/10.1371/journal.pone.0232723
+
+Louhi, P., Mäki‐
+
+Petäys
+
+, A., & 
+
+Erkinaro
+
+, J. (2008). Spawning habitat of Atlantic salmon and brown trout: General criteria and 
+
+intragravel
+
+ factors. River Research and Applications, 24(3), 330–339. https://doi.org/10.1002/rra.1072
+
+Lyons, J., Parks, T. P., Minahan, K. L., & Ruesch, A. S. (2018). Evaluation of 
+
+oxythermal
+
+ metrics and benchmarks for the protection of cisco ( Coregonus artedi ) habitat quality and quantity in Wisconsin lakes. Canadian Journal of Fisheries and Aquatic Sciences, 75(4), 600–608. https://doi.org/10.1139/cjfas-2017-0043
+
+Martínez-
+
+Abraín
+
+, A., Marí-Mena, N., 
+
+Vizcaíno
+
+, A., Vierna, J., 
+
+Veloy
+
+, C., 
+
+Amboage
+
+, M., 
+
+Guitián
+
+-Caamaño, A., Key, C., & Vila, M. (2020). Determinants of Eurasian otter (
+
+Lutra
+
+ 
+
+lutra
+
+) diet in a seasonally changing reservoir. 
+
+Hydrobiologia
+
+, 847(8), 1803–1816. https://doi.org/10.1007/s10750-020-04208-y
+
+Mather, M. E. (1998). The role of context-specific predation in understanding patterns exhibited by anadromous salmon.
+
+McCann, K. S., Rasmussen, J. B., & 
+
+Umbanhowar
+
+, J. (2005). The dynamics of spatially coupled food webs. Ecology Letters, 8(5), 513–523. https://doi.org/10.1111/j.1461-0248.2005.00742.x
+
+McCormick, S. D., Hansen, L. P., Quinn, T. P., & Saunders, R. L. (1998). Movement, migration, and 
+
+smolting
+
+ of Atlantic salmon (Salmo 
+
+salar
+
+). 55(SUPPL.1), 77–92.
+
+Mensinger, M. A., Hawkes, J. P., Goulette, G. S., Mortelliti, A., Blomberg, E. J., & 
+
+Zydlewski
+
+, J. D. (2024). Dams facilitate predation during Atlantic salmon ( Salmo 
+
+salar
+
+ ) smolt migration. Canadian Journal of Fisheries and Aquatic Sciences, 81(1), 38–51. https://doi.org/10.1139/cjfas-2023-0175
+
+Mensinger, M. A., Mortelliti, A., & 
+
+Zydlewski
+
+, J. D. (2025). Evidence for size‐based predation risk during Atlantic salmon ( Salmo 
+
+salar
+
+ ) smolt migration. Journal of Fish Biology, jfb.70011. https://doi.org/10.1111/jfb.70011
+
+Milinski, M., & Löwenstein, C. (1980). On Predator Selection against Abnormalities of Movement A Test of an Hypothesis1. Ethology, 53, 325–340. https://doi.org/10.1111/j.1439-0310.1980.tb01057.x
+
+Mills, E. L., Casselman, J. M., Dermott, R., Fitzsimons, J. D., Gal, G., 
+
+Holeck
+
+, K. T., Hoyle, J. A., Johannsson, O. E., Lantry, B. F., Makarewicz, J. C., Millard, E. S., Munawar, I. F., Munawar, M., O’Gorman, R., Owens, R. W., 
+
+Rudstam
+
+, L. G., Schaner, T., & Stewart, T. J. (2003). Lake Ontario: Food web dynamics in a changing ecosystem (1970-2000). Canadian Journal of Fisheries and Aquatic Sciences, 60(4), 471–490. https://doi.org/10.1139/f03-033
+
+Milot, E., Perrier, C., Papillon, L., Dodson, J. J., & Bernatchez, L. (2013). Reduced fitness of A 
+
+tlantic
+
+ salmon released in the wild after one generation of captive breeding. Evolutionary Applications, 6(3), 472–485. https://doi.org/10.1111/eva.12028
+
+Mumby, J. A., Larocque, S. M., Johnson, T. B., Stewart, T. J., Fitzsimons, J. D., Weidel, B. C., Walsh, M. G., Lantry, J. R., Yuille, M. J., & Fisk, A. T. (2018). Diet and trophic niche space and overlap of Lake Ontario salmonid species using stable isotopes and stomach contents. Journal of Great Lakes Research, 44(6), 1383–1392. https://doi.org/10.1016/j.jglr.2018.08.009
+
+Nash, A. J., 
+
+Vollset
+
+, K. W., Hanssen, E. M., Berhe, S., 
+
+Salvanes
+
+, A. G., Isaksen, T. E., 
+
+Barlaup
+
+, B. T., & Lennox, R. J. (2022). A tale of two fishes: Depth preference of migrating Atlantic salmon smolt and predatory brown trout in a Norwegian lake. Canadian Journal of Fisheries and Aquatic Sciences, 79(12), 2216–2224. https://doi.org/10.1139/cjfas-2022-0016
+
+Nawrocki, B. M., Zhu, C., & Johnson, T. B. (2022). Comparative trophic ecology of nearshore juvenile salmonids in Lake Ontario. Journal of Great Lakes Research, 48, 1669–1680. https://doi.org/10.1016/j.jglr.2022.09.004
+
+Nelson, K. C., Palmer, M. A., Pizzuto, J. E., Moglen, G. E., Angermeier, P. L., Hilderbrand, R. H., Dettinger, M., & Hayhoe, K. (2009). Forecasting the combined effects of urbanization and climate change on stream ecosystems: From impacts to management options. Journal of Applied Ecology, 46(1), 154–163. https://doi.org/10.1111/j.1365-2664.2008.01599.x
+
+Ontario Ministry of Natural Resources and Forestry. (2017). A Wetland Conservation Strategy for Ontario 2017-2030.
+
+Ontario Nature. (2025). A Primer on Wetland Offsetting in Ontario. Ontario Nature. https://ontarionature.org/campaigns/wetlands/wetland-offsetting-in-ontario/
+
+Owens, R. W., O’Gorman, R., Eckert, T. H., & Lantry, B. F. (2003). The offshore fish community in southern Lake Ontario, 1972-1998. 407–441.
+
+Penfound
+
+, E., & Vaz, E. (2022). Analysis of 200 years of change in 
+
+ontario
+
+ wetland systems. Applied Geography, 138, 102625. https://doi.org/10.1016/j.apgeog.2021.102625
+
+Scott, R. J., Judge, K. A., 
+
+Ramster
+
+, K., Noakes, D. L. G., & Beamish, F. W. H. (2005). Interactions between naturalised exotic salmonids and reintroduced Atlantic salmon in a Lake Ontario tributary. Ecology of Freshwater Fish, 14(4), 402–405. https://doi.org/10.1111/j.1600-0633.2005.00115.x
+
+Scott, R. J., Noakes, D. L. G., Beamish, F. W. H., & Carl, L. M. (2003). Chinook salmon impede Atlantic salmon conservation in Lake Ontario. Ecology of Freshwater Fish, 12(1), 66–73. https://doi.org/10.1034/j.1600-0633.2003.00002.x
+
+Solomon, D.J. (1982). Smolt migration in Atlantic salmon (Salmo 
+
+salar
+
+) and sea trout (Salmo trutta). In Proceedings of the Salmon and Trout Migratory Behaviour Symposium. Edited by E.L. Brannon and E.O. Salo. University of Washington, Seattle, Wash. pp. 196–203.
+
+Sortland, L. K., Wightman, G., Flávio, H., Aarestrup, K., & Roche, W. (2025). A Physical Bottleneck Increases Predation on Atlantic Salmon Smolts During Seaward Migration in an Irish Index River. Fisheries Management and Ecology, 32(4), 26–40. https://doi.org/10.1111/fme.12779
+
+Stanfield, Les & Gibson, Scott & Borwick, Jason. (2006). Using a landscape approach to identify the distribution and density patterns of salmonids in Lake Ontario tributaries. American Fisheries Society Symposium. 48. 601-621. https://doi.org/10.47886/9781888569766.ch29
+
+Stanfield, L., & Jones, M. L. (2003). Factors Influencing Rearing Success of Atlantic Salmon Stocked as Fry and Parr in Lake Ontario Tributaries. North American Journal of Fisheries Management, 23(4), 1175–1183. https://doi.org/10.1577/M01-181
+
+Svenning, M.-A., Borgstrøm, R., 
+
+Dehli
+
+, T. O., Moen, G., Barrett, R. T., Pedersen, T., & Vader, W. (2005). The impact of marine fish predation on Atlantic salmon smolts (Salmo 
+
+salar
+
+) in the Tana estuary, North Norway, in the presence of an alternative prey, lesser 
+
+sandeel
+
+ (
+
+Ammodytes
+
+ marinus). Fisheries Research, 76(3), 466–474. https://doi.org/10.1016/j.fishres.2005.06.015
+
+Teichert, M. A. K., 
+
+Einum
+
+, S., Finstad, A. G., 
+
+Ugedal
+
+, O., & Forseth, T. (2013). Ontogenetic timing of density dependence: Location‐specific patterns reflect distribution of a limiting resource. Population Ecology, 55(4), 575–583. https://doi.org/10.1007/s10144-013-0387-0
+
+Thorstad, E. B., Bliss, D., Breau, C., Damon‐Randall, K., Sundt‐Hansen, L. E., Hatfield, E. M. C., Horsburgh, G., Hansen, H., 
+
+Maoiléidigh
+
+, N. Ó., Sheehan, T., & Sutton, S. G. (2021). Atlantic salmon in a rapidly changing environment—Facing the challenges of reduced marine survival and climate change. Aquatic Conservation: Marine and Freshwater Ecosystems, 31(9), 2654–2665. https://doi.org/10.1002/aqc.3624
+
+Thorstad, E. B., Whoriskey, F., 
+
+Uglem
+
+, I., Moore, A., Rikardsen, A. H., & Finstad, B. (2012a). A critical life stage of the Atlantic salmon Salmo 
+
+salar
+
+: Behaviour and survival during the smolt and initial post-smolt migration. Journal of Fish Biology, 81(2), 500–542. https://doi.org/10.1111/j.1095-8649.2012.03370.x
+
+Thorstad, E. B., 
+
+Uglem
+
+, I., Finstad, B., Chittenden, C. M., Nilsen, R., Økland, F., & Bjørn, P. A. (2012b). Stocking location and predation by marine fishes affect survival of hatchery‐reared Atlantic salmon smolts. Fisheries Management and Ecology, 19(5), 400–409. https://doi.org/10.1111/j.1365-2400.2012.00854.x
+
+Van 
+
+Zwol
+
+, J. A., Neff, B. D., & Wilson, C. C. (2012a). The effect of competition among three salmonids on dominance and growth during the juvenile life stage. Ecology of Freshwater Fish, 21(4), 533–540. https://doi.org/10.1111/j.1600-0633.2012.00573.x
+
+Van 
+
+Zwol
+
+, J. A., Neff, B. D., & Wilson, C. C. (2012b). The Effect of Nonnative Salmonids on Social Dominance and Growth of Juvenile Atlantic Salmon. Transactions of the American Fisheries Society, 141(4), 907–918. https://doi.org/10.1080/00028487.2012.675899
+
+Vollset
+
+, K. W., Berhe, S., 
+
+Barlaup
+
+, B. T., 
+
+Åtland
+
+, Å., Isaksen, T. E., Wiers, T., Landro, Y., Normann, E. S., & Lennox, R. J. (2025). High Level of Predation of Atlantic Salmon Smolt During Marine Migration. Marine Ecology, 46(1), e12864. https://doi.org/10.1111/maec.12864
+
+Volpe, J. P., Anholt, B. R., & Glickman, B. W. (2001). Competition among juvenile Atlantic salmon (Salmo 
+
+salar
+
+) and steelhead (Oncorhynchus mykiss): Relevance to invasion potential in British Columbia. Canadian Journal of Fisheries and Aquatic Sciences, 58(1), 197–207. https://doi.org/10.1139/f00-209
+
+Wathen, G., 
+
+Zydlewski
+
+, J., Coghlan Jr., S. M., & Trial, J. G. (2012). Effects of Smallmouth Bass on Atlantic Salmon Habitat Use and Diel Movements in an Artificial Stream. Transactions of the American Fisheries Society, 141(1), 174–184. https://doi.org/10.1080/00028487.2012.655116
+

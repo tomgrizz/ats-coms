@@ -1,0 +1,294 @@
+
+
+bbLake
+
+ Ontario Atlantic Salmon Restoration Program: Five Year Workplan 2025-2029
+DRAFT
+
+For Internal MNR Program Guidance
+Prepared by Thomas Gristey
+July 4th, 2025.
+
+Executive Summary:
+
+The Lake Ontario Atlantic Salmon Restoration Program (LOASRP) aims to re-establish a self-sustaining population of Atlantic Salmon in Lake Ontario. Since its relaunch in 2006, the Ministry of Natural Resources (MNR), in partnership with the Ontario Federation of Anglers and Hunters (OFAH) and over 50 contributing organizations, has made significant investments in fish production, habitat rehabilitation, science, education, and public engagement.
+
+This Five-Year Workplan (2025–2029) outlines MNR’s direction and strategic focus for LOASRP, following the 2023 program review and strategic guidance. Building on the lessons learned from the past 15 years, the workplan identifies a shift toward a more focused and operationally efficient program emphasizing the stocking of advanced life-stage yearlings, increasing adult abundance, and enhancing recreational angling opportunities.
+
+The workplan establishes five priority areas for action:
+
+Increase adult Atlantic Salmon abundance in Lake Ontario
+
+Continue to improve habitat in priority watersheds.
+
+Focus on enhanced stocking of fall and spring yearling life stage.
+
+Enhance Atlantic Salmon recreational angling opportunities.
+
+Improve communication and awareness of program direction. 
+
+To achieve these priorities, MNR will implement a coordinated set of actions across its internal divisions and in close collaboration with OFAH. Actions include understanding the performance and survival of spring and fall yearlings, assessing and monitoring adult fish, continued support for the Lake Ontario Technical Committee's Atlantic Salmon Working Group, and habitat initiatives with OFAH, as well as establishing a leadership group.
+
+Audience:
+
+This workplan is for internal MNR managers and staff with direct involvement in the Lake Ontario Atlantic Salmon Restoration Program including the Provincial Services Division (Lake Ontario Management Unit, Fish Culture Section, and Aquatic Research & Monitoring Section), Regional Operations Division (Aurora/Midhurst and Peterborough/Bancroft Districts), and Policy Division (Fisheries Section). This workplan also serves to inform related Executives (Directors and ADMs) and others within the Ministry about the program direction and focus for the next five years.  
+
+Purpose:
+
+The purpose of this workplan is to align and focus the MNR Lake Ontario Atlantic Salmon Restoration Program (LOASRP) to the Strategic Program Direction. The workplan is designed to be complimentary to and integrated with the Ontario Federation of Anglers and Hunters’ (OFAH) workplan.  
+
+Program Partnership:
+
+The LOASRP was launched in 2006 and is delivered through a partnership between MNR and OFAH with over 50 other partners.
+
+MNR is the lead government agency partner with primary responsibility for fish culture and stocking, science, fish monitoring and assessment as well as fishway operations (see Appendix 1 for detailed MNR roles).
+
+The OFAH provides leadership in education and outreach, coordinates the habitat work with partners and participates in science, provides funding for fish culture and support for fish stocking and other field operations. 
+
+Program partners provide support in several ways through funding, participating in committees, academic research, delivery of field programs, communications, local habitat initiatives and many other aspects. 
+
+Summary of Restoration Efforts:
+
+The 2016–2020 workplan guided a decade of concentrated restoration activity aimed at rebuilding self-sustaining Atlantic Salmon populations in Lake Ontario. During this period, over 3 million Atlantic Salmon were stocked across multiple tributaries, including 1.3 million into the Credit River. Stocking efforts involved two strains (La Have and Sebago Lake) and three life stages: spring fingerlings, fall fingerlings, and spring yearlings (see Appendix 2 for detailed stocking summary). The Lac St. Jean strain was retired early in the period due to poor hatchery performance.
+
+In 2016, restoration efforts expanded to include the 
+
+Ganaraska
+
+ River, and a catch-and-release fishery was established across Lake Ontario tributaries to increase angler awareness and facilitate adult return assessments. Two video fish counters were acquired and installed at the 
+
+Ganaraska
+
+ and Credit River fishways to monitor adult migration. Fish passage efficiency studies were completed at both locations to help calibrate return estimates.
+
+Public engagement efforts continued to grow through OFAH-led initiatives, including the virtual Classroom Hatchery Program during the pandemic, which reached over 1,500 students at 133 locations.
+
+International collaboration played a key role in shaping future restoration strategies in Lake Ontario. To support adaptive, science-based management, the Atlantic Salmon Working Group was established under the Lake Ontario Technical Committee. This binational team, chaired by MNR in collaboration with New York State, and United States Fish and Wildlife Service (USFWS), coordinates scientific planning, data sharing, and evaluation of restoration progress across national jurisdictions.  Working Groups exist for other species, such as Lake Trout and the formation of the Atlantic Salmon Working Group will help ensure consistency and efficiency of effort.
+
+The working group plays a key role in developing technical documents, reviewing emerging research, providing expert advice and research priorities to lake managers pertaining to restoration efforts, and preparing updates for the Great Lakes Fisheries Commission (GLFC) during annual Lake Committee Meetings. Ongoing efforts include presenting on the Status of Fish Community Objectives in relation to Atlantic Salmon at GLFC Lake Committee meetings and drafting a summary white paper to inform fisheries managers of current restoration science, challenges, and future opportunities for Atlantic Salmon recovery in Lake Ontario. 
+
+In 2023, the New York State Department of Environmental Conservation (NYSDEC) released its Atlantic Salmon Fisheries Management Plan, emphasizing the stocking of advanced life-stage fish (spring yearling smolts) low in tributaries to improve survival. NYSDEC also partnered with USFWS to evaluate both the traditional Sebago strain and a newly developed low-thiamine-tolerant Sebago strain. This new strain was derived from Lake Champlain broodstock and selected under low-thiamine incubation conditions. The strain’s performance will be monitored and reported out on for evaluation. Binational monitoring of the performance of these strains is coordinated through the LOTC Atlantic Salmon Working Group.
+
+Open-water angler surveys conducted by MNR and NYSDEC in 2023 and 2024 showed increasing Atlantic Salmon catch rates, and MNR/OFAH received multiple reports of adult returns to Lakefront Promenade, which is a stocking site for both fall and spring yearlings. Following these reports in both 2023 and 2024, MNR field crews successfully captured 50 returning adult Atlantic Salmon each year. These adults were sampled to evaluate genetic strain composition, thiamine levels, growth, and condition. Preliminary findings indicated low thiamine levels in returning adults, a potential limiting factor for adult survival and natural reproduction. Findings also revealed that the fish returning to Lakefront Promenade represented a mixed stock, with New York origin fish schooling with Ontario stocked fish.
+
+The observed adult returns at Lakefront Promenade, along with rising catch rates in the lake, suggest that the current strategy of stocking advance life stages (both fall and spring yearlings) may be a contributing factor to improved survival in the lake. These observations and assessment opportunities will help guide refinements in the upcoming stocking and restoration strategies.
+
+Strategic Program Direction:
+
+	The MNR has been working with the OFAH and approximately 50 other partners since 2006 to restore self-sustaining populations of Atlantic Salmon to Lake Ontario.
+
+	After more than 15 years of investment and dedication by all involved, limited progress on the Credit River has led to a pause in restoration efforts on this river.
+
+	All reasonable efforts have been made to re-establish an Atlantic Salmon adult spawning population in the Credit River and currently an average of 28 (range 15-49) adult Atlantic Salmon per year are migrating past the first barrier (Streetsville) with fewer reaching the second barrier (Norval). 
+
+	Based on a recent engineering review the Norval Dam has been deemed inoperable and is subsequently considered an impassible barrier. As a result, migrating Atlantic Salmon will not be able to reach necessary spawning habitat upstream of Norval. Until a viable passage solution is resolved, restoration success in the Credit River is not possible.
+
+	In 2020, Atlantic Salmon restoration on Cobourg Brook was paused when a passage solution to Pratt’s Dam could not be found.
+
+	If restoration success is observed in other tributaries, and a viable fish passage solution is available, MNR may decide to reinitiate restoration in the Credit River.
+
+MNR’s restoration efforts over the next five years will be focused on tributaries east of Toronto, and recent adult returns to Lakefront Promenade. The efforts will be primarily focused on increasing adult abundance in the lake and developing recreational fisheries.   
+
+A focused approach will lead to a future restoration program that is guided by science, less operationally demanding, simplified in design, focused on fewer streams, and integrated with existing fisheries management and assessment programs.
+
+Focus on key priorities: 
+
+Over the next five years MNR will focus on five priorities: 
+
+Increase adult Atlantic Salmon abundance in Lake Ontario
+
+Continue to improve habitat in priority watersheds.
+
+Focus on enhanced stocking of fall and spring yearling life stages.
+
+Enhance Atlantic Salmon recreational angling opportunities.
+
+Improve communication and awareness of program direction. 
+
+Five Year Action Plan:
+
+Lead and Support Work Across the Five key priorities:
+
+Atlantic Salmon Working Group: Continue to chair, plan, and participate in the binational Lake Ontario Technical Committee Atlantic Salmon Working Group. Continue to work in partnership with New York and the United States. Develop and present updates to the Great Lakes Fisheries Commission during Lake Committee Meetings. Draft and develop technical documents, including a summary white paper to inform managers on the progress, science, and developments of Atlantic salmon restoration in Lake Ontario.
+
+Simplify Overall Program Governance: Establish a program leadership group and refine core membership to include MNR and OFAH. Conservation Authorities and other non-government organizations may participate in program sub-teams or contribute to specific projects. A connection point agreement between MNR and OFAH will guide coordination. 
+ 
+
+Habitat: Continue to work with the OFAH and the habitat committee to identify critical priority habitat impediments or threats to ongoing restoration including an assessment of future stressors (barriers, climate change and development).
+
+Fishway Operations: Maintain the 
+
+Ganaraska
+
+ River Fishway (Corbet Dam) to allow unassisted fish passage for all migratory species. Operate the Credit River Streetsville Fishway (Reid Mill Dam) as per the requirements outlined in the Credit River Fisheries Management Plan (2002) or more recent management direction (when available). Continue to assess and count migratory fish using the counter systems on both rivers identifying adult Atlantic Salmon returns.
+
+Fish Culture: Continue to meet Atlantic Salmon production and stocking targets focused on Sebago strain and refine Atlantic Salmon fish culture methods to support increased adult returns and when feasible develop and coordinate a wild gamete collection program using returning adults. Develop and execute 2025-2029 stocking plan. Where relevant, leverage expertise, product (i.e., fish) and facilities to support research and science as it relates to Atlantic Salmon, including acoustic tagging initiatives in summer/fall of 2025. Participate as member of leadership group and Atlantic Salmon Working Group.
+
+Science and Assessment: Focus the science program on the following critical restoration questions:
+
+Stocking: Continue to assess the Atlantic Salmon stocking strategy (location, size, timing, etc.) in partnership with NYSDEC and others. Evaluate the performance of later life stage stocking strategies through assessment and monitoring.
+ 
+
+Assessment: Continue to monitor adult returns in the 
+
+Ganaraska
+
+ River (Corbett Dam) fishway. Continue to monitor migratory salmonids in the Credit River to monitor adult returns relative to stocking efforts. Plan and monitor Atlantic Salmon abundance and catch through continued angler surveys on the 
+
+Ganaraska
+
+ and open-water fishery. Monitoring migratory salmonids in the Credit River will be guided by available fish passage infrastructure and evolving local fisheries management priorities. Assessment programs may adapt over time in response to shifting management strategies and planning needs. Continue to assess adult returns at Lakefront Promenade and collect samples for evaluation. 
+
+Assessment: PIT Tag Study (2024-2027): Fall and Spring yearling were tagged and released at Lakefront Promenade. Assessment crews will scan each captured returning fish to understand how each stocking stage contributes to the returning population. 
+
+Assessment: Fall Yearling Acoustic Tagging Initiative (2025–2028): To improve understanding of survival, imprinting, and habitat use by stocked fall yearling Atlantic Salmon, MNR will lead a coordinated acoustic telemetry study beginning in 2025. A total of 60 fall yearlings reared at the Normandale Hatchery will be acoustically tagged and released at two locations: Lakefront Promenade and the 
+
+Ganaraska
+
+ River. These fish will be monitored through the GLATOS receiver network and supplemented by fixed receivers deployed at the mouths of both stocking sites.
+The study will address the following key objectives:
+
+Survival: Estimate short- and medium-term survival of fall yearlings after stocking by tracking acoustic detections over time.
+
+Imprinting and Homing: Assess whether fall yearlings exhibit homing behaviour to their release locations. Adult returns observed at Lakefront Promenade in 2023 and 2024 suggest that some imprinting may occur in 18-month-old fish.
+
+Habitat Use and Fisheries Contribution: Evaluate whether fall yearlings support nearshore or offshore recreational fisheries. The emergence of a new nearshore fishery at Lakefront Promenade raises questions about the potential to replicate such opportunities elsewhere.
+
+Timing of Returns: Determine the timing and patterns of adult returns to 
+
+Ganaraska
+
+ River and Lakefront Promenade. Tagged fish will be monitored using both acoustic receiver arrays and existing assessment tools, including the 
+
+Ganaraska
+
+ River extended fall angler survey and the 
+
+Riverwatcher
+
+ fish counter system. The incorporation of these additional assessment programs along with the acoustic tags will allow monitoring from the 
+
+Ganaraska
+
+ River mouth, through the extended fall fishery assessed through a fall angler survey and up to Corbett’s dam with the camera systems. 
+
+This initiative supports MNR’s goal of refining fall yearling stocking strategies and contributes directly to ongoing assessments of habitat use, survival bottlenecks, and restoration success across Lake Ontario.
+
+Fish passage: Continue to assess fish passage efficacy and provide recommendations for improvement by 2029. Leverage acoustic tags, angler surveys and camera systems to understand fish passage on the 
+
+Ganaraska
+
+ River.
+
+Fish community interactions: Work with academia to investigate the possibility of interactions between Atlantic Salmon and Pacific salmonids during fall migration. 
+
+Best bet streams: Based on what has been learned since 2006, lead a review of the restoration potential of Lake Ontario tributaries. Review and evaluate the performance of fall yearlings in other “best bet streams”.
+
+Public Engagement: Continue to support the OFAH as the lead partner responsible for public engagement through BringBackTheSalmon.ca, the classroom hatchery, social media, promotional videos, etc. Develop programs to increase public awareness of Atlantic Salmon, the program, and species identification. Promote and highlight recreational fishery opportunities for Atlantic Salmon in the tributaries, shoreline, and open water. 
+
+Workplan Rollout and Communications:
+
+This section will outline how the MNR workplan will be rolled out internally and through the partnership. MNR will need to communicate the priorities, the status of the LOASRP program and the focus of the 2025-2029 MNR Workplan will include a timeline for internal, partnership and broader public communications.
+
+Spring 2025:
+
+Internal meeting within MNR to discuss plan and review draft workplan and rollout.
+
+Meeting with OFAH to further review draft work plan. Discuss and develop plan for future discussions.
+
+Establish 
+
+leadship
+
+ group with OFAH and MNR to finalize the workplan and stocking strategies.
+
+Develop stocking plan for 2025-2029 with Fish Culture Section.
+
+Summer 2025:
+
+Develop communication plan of the future direction of the program with MNR and OFAH
+
+Review current regulations and angling opportunities for Atlantic Salmon
+
+Acoustically tag 60 fall yearlings at Normandale Hatchery for release at Lakefront Promenade and 
+
+Ganaraska
+
+ River.
+
+Fall 2025:
+
+Continue to monitor and assess the implementation of fall and spring yearling stocking at select stocking locations.
+
+Deploy receivers at the mouth of Lakefront Promenade and 
+
+Ganaraska
+
+ River to improve coverage of stocking areas.
+
+Release tagged fall yearlings at 
+
+Ganaraska
+
+ and Lakefront Promenade
+
+Consult with Atlantic Salmon Working Group, academia and Aquatic Research and Monitoring Section on sampling protocols of adult Atlantic Salmon
+
+Return to Lakefront Promenade for assessment/sampling of adult Atlantic Salmon
+
+Finalize 2025-2029 Atlantic Salmon workplan and develop a communication strategy.
+
+Lead 
+
+Ganaraska
+
+ Extended Fall season angler survey, assess and monitor Atlantic Salmon catch rates in the river. 
+
+Roll out communication with OFAH and MNR direction of LOASRP.
+
+Ongoing:
+
+Ongoing participation/co-chair the Atlantic Salmon Working Group and development of the whitepaper.
+
+Continued operation and reporting of fishway counters at 
+
+Ganaraska
+
+ and Credit Rivers. 
+
+Reassess relevant Lake Ontario Fish Community Objectives with Lake Ontario Committee and Great Lakes Fisheries Commission to develop objectives informed by current knowledge and aligned with updated agency management objectives. 
+
+Lead Atlantic Salmon the leadership group in partnership with OFAH.
+
+Continue to work in partnership with NYSDEC on Atlantic Salmon initiatives. 
+
+Receiver maintenance and analysis of tagged fish through to 2027.
+
+Foster partnerships (e.g., agency, NGO, academia, 
+
+etc
+
+) to pursue Atlantic Salmon research priorities identified by the Atlantic Salmon Working Group.
+
+Appendix 1: MNR Organizational Roles:
+
+Lake Ontario Management Unit, Fish and Wildlife Services – co-chair the LOASRP Leadership group with OFAH, lead the member/chair of the LOTC ATSWG, lead the overall monitoring and assessment program, plan and coordinate fish stocking, lead fishway operations at the 
+
+Ganaraska
+
+ River, support fishway operations at the Credit River Streetsville. 
+
+Fish Culture Section, Fish and Wildlife Services – member of the LOASRP Leadership group, member of LOTC ATSWG, lead fish production, lead the investigation into fish production methods, manage brood stocks (genetics etc.), support fish stocking and related science initiatives.  
+
+Aurora District, Southern Regional Operations – member of the LOASRP Leadership group, lead fishway operations at the Credit River Streetsville and Norval fishways, and support fish stocking. 
+
+Peterborough District, Southern Regional Operations – member of the LOASRP Leadership Group, support fishway operations at the 
+
+Ganaraska
+
+ River, and support fish stocking. 
+
+Aquatic Research and Monitoring Section, Science and Research:  member of the LOASRP Leadership group, member of LOTC ATSWG, provides scientific expertise in genetics and other priority restoration science questions as needed.
+
+Fisheries Policy Section, Fish and Wildlife Policy member of the LOASRP Leadership Group, provide fisheries policy advice and direction as needed. 
+

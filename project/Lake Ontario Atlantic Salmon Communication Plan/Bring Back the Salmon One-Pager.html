@@ -1,0 +1,426 @@
+<!DOCTYPE html><html lang="en"><head>
+
+
+
+
+
+
+
+
+
+
+
+
+<meta charset="utf-8">
+<title>Bring Back the Atlantic Salmon | Program Brief</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;500;600;700;800&amp;family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&amp;display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#ffffff;
+    --paper-2:#f4f1ea;
+    --ink:#0f1d24;
+    --ink-2:#2c3a42;
+    --mute:#607078;
+    --line:#d9d3c3;
+    --navy:#0b3a53;
+    --navy-2:#14506e;
+    --forest:#2e5b3a;
+    --forest-2:#3f7a4f;
+    --sand:#ede6d2;
+    --accent:#b7651f;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0;background:#26292c;font-family:'Source Sans 3',system-ui,sans-serif;color:var(--ink);}
+  .stage{display:flex;justify-content:center;padding:28px 16px 60px;}
+
+  .page{
+    width:816px; min-height:1056px; background:var(--paper);
+    box-shadow:0 30px 80px rgba(0,0,0,.45);
+    position:relative; overflow:hidden;
+  }
+
+  /* ============ MASTHEAD ============ */
+  .masthead{
+    background:#fff; color:var(--navy);
+    padding:14px 40px;
+    display:flex; align-items:center; justify-content:space-between; gap:16px;
+    border-bottom:4px solid var(--navy);
+  }
+  .brand{display:flex; align-items:center; gap:14px; min-width:0}
+  .brand-name{
+    font-family:'Source Sans 3', sans-serif; font-weight:800; font-size:16px; letter-spacing:.02em;
+    text-transform:uppercase; line-height:1.1; color:var(--navy);
+  }
+  .brand-name span{
+    display:block; font-weight:500; font-size:10px; letter-spacing:.2em; color:var(--mute);
+    margin-top:4px; text-transform:uppercase;
+  }
+  .mast-logos{display:flex; align-items:center; gap:18px; flex-shrink:0;}
+  .mast-logos .logo-item{display:flex; align-items:center;}
+  .mast-logos .logo-item + .logo-item{border-left:1px solid var(--line); padding-left:18px;}
+  .mast-logos img{height:44px; width:auto; display:block; background:transparent; padding:0; border-radius:0;}
+  .mast-logos .ofah-logo{height:44px; width:44px; display:block; background:transparent; padding:0; border-radius:0;}
+
+  /* ============ HERO ============ */
+  .hero{
+    position:relative; height:420px; background:#0b3a53; overflow:hidden;
+  }
+  .hero img{
+    position:absolute; inset:0; width:100%; height:100%; object-fit:cover;
+    object-position:center 50%;
+  }
+  .hero::after{
+    content:""; position:absolute; inset:0;
+    background:
+      linear-gradient(90deg, rgba(11,58,83,.88) 0%, rgba(11,58,83,.45) 38%, rgba(11,58,83,0) 68%),
+      linear-gradient(180deg, rgba(11,58,83,0) 60%, rgba(11,58,83,.35) 100%);
+  }
+  .hero-text{
+    position:absolute; left:40px; bottom:36px; color:#fff; z-index:2;
+    max-width:58%; text-align:left;
+  }
+  .hero-kicker{
+    font-size:11px; letter-spacing:.28em; text-transform:uppercase; color:#e6d9b8; font-weight:700;
+    padding-bottom:8px; margin-bottom:10px; border-bottom:1px solid rgba(230,217,184,.45);
+    display:inline-block;
+  }
+  .hero h1{
+    font-family:'Source Serif 4', serif; font-weight:600;
+    font-size:40px; line-height:1.06; letter-spacing:-.012em;
+    margin:0; max-width:560px; text-wrap:balance;
+    text-shadow:0 1px 24px rgba(11,58,83,.35);
+  }
+
+  /* ============ BODY ============ */
+  .body{padding:16px 40px 0;}
+
+  .intro{
+    display:grid; grid-template-columns: 1fr 1fr; gap:22px;
+    padding-bottom:12px; border-bottom:1px solid var(--line);
+  }
+  .intro .goal-kicker{
+    font-size:12px; letter-spacing:.22em; text-transform:uppercase; color:var(--forest); font-weight:700;
+    margin-bottom:6px; padding-bottom:5px; border-bottom:1px solid var(--line);
+  }
+  .intro h2{
+    font-family:'Source Serif 4', serif; font-weight:600; font-size:22px; line-height:1.16;
+    margin:3px 0 8px; color:var(--ink); text-wrap:balance; letter-spacing:-.01em;
+  }
+  .intro p{
+    font-size:12px; line-height:1.5; color:var(--ink-2); margin:0 0 6px;
+  }
+  .intro p b{color:var(--ink); font-weight:600}
+
+  /* ============ SECTION ============ */
+  .section{padding:14px 0 0}
+  .section-title{
+    display:flex; align-items:center; gap:12px; margin-bottom:10px;
+  }
+  .section-title .bar{width:4px; height:20px; background:var(--forest)}
+  .section-title h3{
+    font-family:'Source Serif 4', serif; font-weight:600; font-size:18px; margin:0; color:var(--ink);
+  }
+  .section-title .tag{
+    margin-left:auto; font-size:9.5px; letter-spacing:.2em; text-transform:uppercase; color:var(--mute); font-weight:600;
+  }
+
+  /* ============ PRIORITIES ============ */
+  .priorities{
+    display:grid; grid-template-columns: repeat(5, 1fr); gap:0;
+    border:1px solid var(--line);
+  }
+  .p-card{
+    padding:10px 12px; position:relative;
+    border-right:1px solid var(--line); min-width:0;
+  }
+  .p-card:last-child{border-right:none}
+  .p-card .num{
+    font-family:'Source Serif 4', serif; font-weight:700; font-size:24px; color:var(--forest);
+    line-height:1; display:flex; align-items:center; gap:8px;
+  }
+  .p-card .num::after{content:""; flex:1; height:1px; background:var(--line); margin-left:2px;}
+  .p-card .t{
+    font-weight:600; font-size:13px; line-height:1.35; color:var(--ink); margin-top:10px; text-wrap:balance;
+  }
+
+  /* ============ LAKE-WIDE APPROACH ============ */
+  .lake{
+    display:grid; grid-template-columns: 1.15fr 1fr; gap:18px; align-items:stretch;
+  }
+  .lake .copy p{
+    font-size:12px; line-height:1.5; color:var(--ink-2); margin:0 0 7px;
+  }
+  .lake .copy p b{color:var(--ink); font-weight:600}
+  .partners-row{
+    display:grid; grid-template-columns: repeat(2, 1fr); gap:8px 16px;
+    margin-top:8px; padding-top:10px; border-top:1px solid var(--line);
+  }
+  .partner{font-size:10.5px; line-height:1.35; color:var(--ink-2);}
+  .partner b{display:block; font-size:9px; letter-spacing:.18em; text-transform:uppercase; color:var(--navy); font-weight:700; margin-bottom:2px}
+
+  /* Report Your Catch CTA */
+  .report-cta{
+    margin-top:10px;
+    display:grid; grid-template-columns:42px 1fr; gap:12px; align-items:start;
+    background:var(--sand); padding:10px 14px;
+    border-left:4px solid var(--accent);
+  }
+  .report-cta-icn{
+    width:42px; height:42px; display:flex; align-items:center; justify-content:center;
+    background:var(--accent); border-radius:50%;
+  }
+  .report-cta-icn img{display:block; margin:0 auto;}
+  .report-cta-body b{
+    display:block; font-family:'Source Serif 4', serif; font-weight:700;
+    font-size:14px; color:var(--ink); margin-bottom:3px; letter-spacing:0; text-transform:none;
+  }
+  .report-cta-body p{margin:0; font-size:11px; line-height:1.5; color:var(--ink-2);}
+  .report-cta-body a{color:var(--navy-2); text-decoration:underline; font-weight:600;}
+
+  .sidebar{
+    background:var(--sand);
+    padding:10px 14px 10px;
+    border-top:3px solid var(--forest);
+  }
+  .sidebar h4{
+    font-family:'Source Serif 4', serif; font-weight:700; font-size:15px; margin:0 0 6px; color:var(--ink);
+  }
+  .sidebar .kpi{padding:6px 0; border-top:1px solid rgba(11,58,83,.15);}
+  .sidebar .kpi:first-of-type{border-top:none; padding-top:0}
+  .sidebar .n{
+    font-family:'Source Serif 4', serif; font-weight:700; font-size:18px; color:var(--navy); line-height:1;
+    display:block; margin-bottom:2px;
+  }
+  .sidebar .n sup{font-size:11px; color:var(--accent); font-weight:600; vertical-align:super; margin-left:1px; font-family:'Source Sans 3'}
+  .sidebar .l{font-size:12.5px; line-height:1.35; color:var(--ink-2);}
+  .sidebar .l b{color:var(--ink); font-weight:600; display:block; font-size:13px; margin-bottom:1px}
+
+  /* ============ WHAT WE'RE DOING ============ */
+  .doing{display:grid; grid-template-columns: repeat(4, 1fr); gap:10px;}
+  .do-card{
+    border:1px solid var(--line); padding:0 0 10px;
+    background:#fff; overflow:hidden;
+  }
+  .do-card .icn{
+    width:100%; height:42px; display:grid; place-items:center;
+    background:var(--navy); color:#fff; margin:0 0 8px;
+  }
+  .do-card .t,
+  .do-card .d{padding-left:12px; padding-right:12px;}
+  .do-card .t{
+    font-weight:700; font-size:11.5px; text-transform:uppercase; letter-spacing:.04em; color:var(--ink); margin-bottom:4px;
+  }
+  .do-card .d{font-size:10.5px; line-height:1.45; color:var(--ink-2);}
+
+  /* ============ FOOTER ============ */
+  .foot{
+    margin-top:14px; padding:12px 40px;
+    background:var(--navy); color:#fff;
+    display:flex; justify-content:space-between; align-items:center; gap:20px;
+  }
+  .foot .left{font-size:10.5px; letter-spacing:.08em; line-height:1.5; color:#cfdce4}
+  .foot .left b{color:#fff; font-weight:700; letter-spacing:.14em; text-transform:uppercase; display:block; font-size:10px; margin-bottom:3px}
+  .foot .right{text-align:right}
+  .foot .cta{font-family:'Source Serif 4', serif; font-size:15px; font-weight:600; color:#fff}
+  .foot .url{font-size:11px; letter-spacing:.18em; text-transform:uppercase; color:#e6d9b8; margin-top:3px; font-weight:600}
+
+  @media print{
+    html,body{background:#fff}
+    .stage{padding:0}
+    .page{box-shadow:none; width:8.5in; min-height:11in}
+    @page{size:letter; margin:0}
+  }
+</style>
+</head>
+<body style="">
+<div class="stage" style="align-items: center;">
+  <article class="page" data-screen-label="One-pager">
+
+    <!-- MASTHEAD -->
+    <header class="masthead">
+      <div class="brand">
+        <div class="brand-name">
+          Bring Back the Atlantic Salmon
+          <span>Lake Ontario Restoration Program</span>
+        </div>
+      </div>
+      <div class="mast-logos">
+        <div class="logo-item">
+          <img class="ofah-logo" src="assets/ofah-logo.png" alt="Ontario Federation of Anglers and Hunters">
+        </div>
+        <div class="logo-item">
+          <img src="assets/fish-wildlife-logo.png" alt="Ontario Fish and Wildlife">
+        </div>
+      </div>
+    </header>
+
+    <!-- HERO -->
+    <section class="hero">
+      <img src="assets/hero-angler.jpg" alt="Angler holding a returning adult Atlantic Salmon at the Lake Ontario shoreline.">
+      <div class="hero-text">
+        <div class="hero-kicker" style=""><div>The return of a Lake Ontario icon</div></div>
+        <h1 style="">Restoring Atlantic Salmon to Lake Ontario</h1>
+      </div>
+    </section>
+
+    <!-- INTRO: The Goal -->
+    <div class="body">
+      <section class="intro">
+        <div>
+          <div class="goal-kicker">Our Goal</div>
+          <h2>Restore Atlantic Salmon and support a diverse salmon and trout fishery.</h2>
+          <p>This program is working to restore Atlantic Salmon to Lake Ontario while creating a unique recreational fishery that benefits Ontario's economy. At the same time, it improves critical habitat that strengthens biodiversity and honours the lake's cultural heritage.</p>
+          <p><b>Investing in the Future:</b> OFAH Classroom Hatchery Program inspires the next generation by connecting thousands of students to hands-on learning in salmon biology, conservation, and stewardship.</p>
+        </div>
+        <div>
+          <div class="goal-kicker">Why This Matters</div>
+          <h2>Better habitat. Better fishing. A better lake.</h2>
+          <p>Atlantic Salmon are returning to the fishery in record numbers. Guided by years of experience, the program uses an adaptive management approach that focuses on targeted stocking of older life stages of fish, increasing adult abundance, tributary habitat restoration and enhancement. These efforts benefit fish and wildlife across the Lake Ontario watershed while supporting outstanding fishing opportunities, from local shorelines and tributaries to a thriving offshore boat fishery.</p>
+        </div>
+      </section>
+
+      <!-- FIVE PRIORITIES -->
+      <section class="section">
+        <div class="section-title">
+          <span class="bar"></span>
+          <h3>Ontario's Five Priorities</h3>
+        </div>
+        <div class="priorities">
+          <div class="p-card">
+            <div class="num">01</div>
+            <div class="t">Increase adult Atlantic Salmon abundance in Lake Ontario</div>
+          </div>
+          <div class="p-card">
+            <div class="num">02</div>
+            <div class="t">Continue to improve habitat in priority watersheds</div>
+          </div>
+          <div class="p-card">
+            <div class="num">03</div>
+            <div class="t">Focus on stocking older life stage fish directly into Lake Ontario</div>
+          </div>
+          <div class="p-card">
+            <div class="num">04</div>
+            <div class="t">Enhance Atlantic Salmon recreational angling opportunities</div>
+          </div>
+          <div class="p-card">
+            <div class="num">05</div>
+            <div class="t">Improve communication and awareness</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- LAKE-WIDE APPROACH -->
+      <section class="section">
+        <div class="lake">
+          <div class="copy">
+            <div class="section-title">
+              <span class="bar"></span>
+              <h3>A Lake-Wide Approach</h3>
+            </div>
+            <p>Fish do not recognize borders, so through the program's adaptive management approach it collaborates with binational agency partners in New York State, on Lake wide stocking initiatives, habitat work, and science to support Atlantic Salmon restoration.</p>
+            <p>Biologists are studying returning adult Atlantic Salmon to guide future restoration efforts. Sampling more than 300 adults over the past three years has provided an unprecedented opportunity to better understand this population and help advance its recovery.</p>
+            <p>Catch rates are climbing, with anglers reporting more Atlantic Salmon than seen in decades. Lake-wide restoration efforts are supporting a strong and diverse salmon and trout fishery. Anglers across Lake Ontario can now enjoy expanded fishing opportunities, from accessible nearshore and tributary waters to a thriving offshore fishery.</p>
+            <p><b>Be part of the return!</b> Get out on the water, experience the fishery and report your Atlantic Salmon catches to help support ongoing restoration efforts.</p>
+
+            <div class="report-cta">
+              <div class="report-cta-icn" aria-hidden="true">
+                <img src="assets/salmon-icon-white.png" alt="" style="width:28px; height:auto; display:block;">
+              </div>
+              <div class="report-cta-body">
+                <b>Help Track the Return</b>
+                <p>Have you caught or seen an Atlantic Salmon? Report your catch to <a href="mailto:info@bringbackthesalmon.ca">info@bringbackthesalmon.ca</a> or visit <a href="https://bringbackthesalmon.ca">bringbackthesalmon.ca</a>.</p>
+              </div>
+            </div>
+          </div>
+
+          <aside class="sidebar">
+            <h4 style="">Progress at a Glance:</h4>
+            <div class="kpi">
+              <div class="l"><b>Increased Catch Rates across Lake Ontario</b>Anglers across the lake are reporting Atlantic Salmon catches at increasing rates.</div>
+            </div>
+            <div class="kpi">
+              <div class="n">300<sup>+</sup></div>
+              <div class="l"><b>Increased Adult Returns</b>Returning Atlantic Salmon captured and studied in the past three years.</div>
+            </div>
+            <div class="kpi">
+              <div class="n">150<sup>+</sup></div>
+              <div class="l"><b>Habitat projects</b>Stream and watershed improvements delivered by OFAH and partners.</div>
+            </div>
+            <div class="kpi">
+              <div class="n">1,500<sup>+</sup></div>
+              <div class="l"><b>Students reached</b>Through the OFAH Classroom Hatchery &amp; outreach program.</div>
+            </div>
+            <div class="kpi">
+              <div class="n">50<sup>+</sup></div>
+              <div class="l"><b>Partner organizations</b>Working together on fish production, habitat restoration, and outreach.</div>
+            </div>
+          </aside>
+        </div>
+      </section>
+
+      <!-- WHAT WE'RE DOING -->
+      <section class="section">
+        <div class="section-title">
+          <span class="bar"></span>
+          <h3>What We're Doing on the Water</h3>
+          <span class="tag" style="">Current projects</span>
+        </div>
+        <div class="doing">
+          <div class="do-card">
+            <div class="icn">
+              <div style="display:flex; align-items:center; justify-content:center; gap:5px; width:100%; height:100%; padding:6px 12px;">
+                <img src="assets/salmon-icon-white.png" alt="" style="height:20px; width:auto; display:block; flex-shrink:0;">
+                <img src="assets/salmon-icon-white.png" alt="" style="height:14px; width:auto; display:block; flex-shrink:0;">
+                <img src="assets/salmon-icon-white.png" alt="" style="height:9px; width:auto; display:block; flex-shrink:0;">
+              </div>
+            </div>
+            <div class="t">Fish Production</div>
+            <div class="d">Stocking Atlantic Salmon at older life stages where survival, returns, and restoration impact come together.</div>
+          </div>
+          <div class="do-card">
+            <div class="icn">
+              <svg width="108" height="34" viewBox="0 0 108 34" fill="none" stroke="#fff" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M16 24 L 16 14"></path><circle cx="16" cy="10" r="5" fill="#fff" stroke="#fff"></circle><path d="M36 24 L 36 12"></path><path d="M36 4 L 28 14 L 32 14 L 27 20 L 45 20 L 40 14 L 44 14 Z" fill="#fff" stroke="#fff"></path><path d="M58 24 L 58 16"></path><circle cx="58" cy="11" r="6" fill="#fff" stroke="#fff"></circle><path d="M78 24 L 78 18"></path><path d="M78 6 L 72 14 L 75 14 L 71 19 L 85 19 L 81 14 L 84 14 Z" fill="#fff" stroke="#fff"></path><path d="M2 28 C 22 24, 46 32, 70 28 C 86 25, 96 30, 106 28" stroke="#e6d9b8"></path><path d="M2 31 C 22 27, 46 35, 70 31 C 86 28, 96 33, 106 31" stroke="#e6d9b8" opacity=".6"></path></svg>
+            </div>
+            <div class="t">Habitat Restoration</div>
+            <div class="d">Improving streams, shorelines, and watersheds. These efforts benefit fish and wildlife across Lake Ontario.</div>
+          </div>
+          <div class="do-card">
+            <div class="icn">
+              <div style="display:flex; flex-direction:column; align-items:center; justify-content:center; width:100%; height:100%; gap:3px; padding:5px 10px;">
+                <img src="assets/salmon-icon-white.png" alt="" style="height:22px; width:auto; display:block;">
+                <svg width="96" height="8" viewBox="0 0 96 8" fill="none" stroke="#fff" stroke-width="1.2" stroke-linecap="round"><path d="M1 1 H 95"></path><path d="M5 1 V 5 M13 1 V 4 M21 1 V 4 M29 1 V 5 M37 1 V 4 M45 1 V 4 M53 1 V 5 M61 1 V 4 M69 1 V 4 M77 1 V 5 M85 1 V 4 M93 1 V 4"></path></svg>
+              </div>
+            </div>
+            <div class="t">Science &amp; Monitoring</div>
+            <div class="d">Tracking fish using tags, cameras, and angler surveys to guide better decisions.</div>
+          </div>
+          <div class="do-card">
+            <div class="icn">
+              <svg width="96" height="30" viewBox="0 0 96 30" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M16 9 L 32 14 L 48 9 L 32 4 Z"></path><path d="M48 9 V 17"></path><path d="M22 12 V 19 C 22 22, 42 22, 42 19 V 12"></path><circle cx="68" cy="10" r="3" fill="#fff" stroke="#fff"></circle><path d="M62 22 C 62 17, 74 17, 74 22 Z" fill="#fff" stroke="#fff"></path><circle cx="82" cy="12" r="2.5" fill="#fff" stroke="#fff"></circle><path d="M77 22 C 77 18, 87 18, 87 22 Z" fill="#fff" stroke="#fff"></path></svg>
+            </div>
+            <div class="t">Education &amp; Outreach</div>
+            <div class="d">Connect with anglers, students, and communities through OFAH programs across Ontario.</div>
+          </div>
+        </div>
+      </section>
+
+    </div><!-- /body -->
+
+    <!-- FOOTER -->
+    <footer class="foot">
+      <div class="left">
+        <b>Delivered in Partnership</b>
+        Ontario Ministry of Natural Resources · Ontario Federation of Anglers and Hunters
+      </div>
+      <div class="right">
+        <div class="cta">Learn more. Get involved.</div>
+        <div class="url">bringbackthesalmon.ca</div>
+      </div>
+    </footer>
+  </article>
+</div>
+
+
+</body></html>
