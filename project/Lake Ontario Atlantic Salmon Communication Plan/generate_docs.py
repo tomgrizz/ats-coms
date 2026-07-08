@@ -40,7 +40,7 @@ RL_LINE   = colors.Color(0xd9/255, 0xd3/255, 0xc3/255)
 
 PROGRAM_NAME = "Bring Back the Atlantic Salmon"
 SUBTITLE      = "Lake Ontario Restoration Program"
-PARTNERS      = "Ontario Ministry of Natural Resources · Ontario Federation of Anglers and Hunters"
+PARTNERS      = "Ontario Ministry of Natural Resources · Ontario Federation of Anglers and Hunters Foundation"
 WEBSITE       = "bringbackthesalmon.ca"
 CONTACT       = "info@bringbackthesalmon.ca"
 
@@ -118,19 +118,19 @@ KPIS = [
               "Anglers across the lake are reporting Atlantic Salmon catches at increasing rates."),
     ("300+",  "Increased Adult Returns",
               "Returning Atlantic Salmon captured and studied in the past three years."),
-    ("150+",  "Habitat projects",
+    ("300+",  "Habitat projects",
               "Stream and watershed improvements delivered by OFAH and partners."),
-    ("1,500+","Students reached",
+    ("3,000+","Students reached per year",
               "Through the OFAH Classroom Hatchery & outreach program."),
     ("50+",   "Partner organizations",
-              "Working together on fish production, habitat restoration, and outreach."),
+              "Working together on fish production, habitat restoration, monitoring, and outreach."),
 ]
 
 DOING = [
     ("Fish Production",
      "Stocking Atlantic Salmon at older life stages where survival, returns, and restoration impact come together."),
     ("Habitat Restoration",
-     "Improving streams, shorelines, and watersheds. These efforts benefit fish and wildlife across Lake Ontario."),
+     "Improving streams, shorelines, and watersheds. These efforts benefit fish, wildlife, and people across Lake Ontario."),
     ("Science & Monitoring",
      "Tracking fish using tags, cameras, and angler surveys to guide better decisions."),
     ("Education & Outreach",

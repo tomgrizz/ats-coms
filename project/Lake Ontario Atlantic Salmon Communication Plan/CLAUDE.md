@@ -63,13 +63,15 @@ The `uploads/` folder contains additional reference images (electrofishing photo
 
 - **3M+** Atlantic Salmon stocked since 2006
 - **300+** returning adults sampled in the past three years
-- **150+** habitat projects delivered
-- **1,500+** students reached through the Classroom Hatchery
-- **50+** partner organizations
+- **300+** habitat projects delivered (296 completed to date)
+- **3,000+** students reached per year through the Classroom Hatchery (3,394 engaged at fry releases this year)
+- **50+** partner organizations (fish production, habitat restoration, monitoring, and outreach)
 - Five priorities: increase adult abundance, improve habitat, enhanced yearling stocking, enhance angling opportunities, improve communications
 - Focus area: tributaries **east of Toronto** + Lakefront Promenade (Credit River restoration paused)
 - Website: **bringbackthesalmon.ca** | Contact: **info@bringbackthesalmon.ca**
 - Partners: Ontario MNR · OFAH · NYSDEC · USFWS · DFO
+- Footer partnership credit: "Ontario Ministry of Natural Resources · Ontario Federation of Anglers and Hunters Foundation"
+- Masthead uses the OFAH Foundation logo (loon roundel) with the "OFAH FOUNDATION" wordmark
 
 ## Previewing Changes
 
