@@ -56,10 +56,11 @@
 
   /* ============ HERO ============ */
   .hero{
-    --heroH:276px; position:relative; height:var(--heroH); background:#0b3a53; overflow:hidden; flex-shrink:0;
+    --heroH:288px; position:relative; height:var(--heroH); background:#0b3a53; overflow:hidden; flex-shrink:0;
   }
   .hero img{
-    position:absolute; inset:0; width:100%; height:100%; object-fit:cover; object-position:right 46%;
+    position:absolute; inset:0; width:100%; height:100%; object-fit:cover; object-position:right 47%;
+    transform:rotate(1deg) scale(1.02); transform-origin:center;
   }
   .hero::after{
     content:""; position:absolute; inset:0;
@@ -89,11 +90,11 @@
   }
 
   /* ============ BODY ============ */
-  .body{padding:6px 40px 0;}
+  .body{padding:4px 40px 0;}
 
   .intro{
     display:grid; grid-template-columns: 1fr 1fr; gap:14px;
-    padding-bottom:5px; border-bottom:1px solid var(--line);
+    padding-bottom:4px; border-bottom:1px solid var(--line);
   }
   .intro .goal-kicker{
     font-size:10px; letter-spacing:.22em; text-transform:uppercase; color:var(--forest); font-weight:700;
@@ -109,7 +110,7 @@
   .intro p b{color:var(--ink); font-weight:600}
 
   /* ============ SECTION ============ */
-  .section{padding:3px 0 0}
+  .section{padding:2px 0 0}
   .section-title{
     display:flex; align-items:center; gap:10px; margin-bottom:3px;
   }
@@ -152,7 +153,7 @@
     border:1px solid var(--line); border-top:3px solid var(--forest); background:var(--sand);
   }
   .kpi-strip .kpi{
-    padding:4px 9px; border-right:1px solid var(--line); min-width:0;
+    padding:3px 9px; border-right:1px solid var(--line); min-width:0;
   }
   .kpi-strip .kpi:last-child{border-right:none}
   .kpi-strip .n{
@@ -166,7 +167,7 @@
   /* ============ WHAT WE'RE DOING ============ */
   .doing{display:grid; grid-template-columns: repeat(4, 1fr); gap:7px;}
   .do-card{
-    border:1px solid var(--line); border-top:3px solid var(--navy); padding:6px 10px 7px;
+    border:1px solid var(--line); border-top:3px solid var(--navy); padding:5px 10px 6px;
     background:#fff; overflow:hidden;
   }
   .do-card .t{
@@ -176,7 +177,7 @@
 
   /* ============ FOOTER ============ */
   .foot{
-    margin-top:auto; padding:6px 40px;
+    margin-top:auto; padding:5px 40px;
     background:var(--navy); color:#fff;
     display:flex; justify-content:space-between; align-items:center; gap:20px;
   }
