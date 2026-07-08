@@ -59,19 +59,12 @@
     --heroH:288px; position:relative; height:var(--heroH); background:#0b3a53; overflow:hidden; flex-shrink:0;
   }
   .hero img{
-    position:absolute; inset:0; width:100%; height:100%; object-fit:cover; object-position:right 47%;
-    transform:rotate(1deg) scale(1.02); transform-origin:center;
+    position:absolute; inset:0; width:100%; height:100%; object-fit:cover; object-position:center 22%;
   }
   .hero::after{
     content:""; position:absolute; inset:0;
     /* photo is right-aligned, width = heroH * (4000/2252); fade stops track its left edge */
-    background:
-      linear-gradient(90deg,
-        rgba(11,58,83,.88) 0,
-        rgba(11,58,83,.74) 24%,
-        rgba(11,58,83,.42) 44%,
-        rgba(11,58,83,.12) 60%,
-        rgba(11,58,83,0) 74%);
+    background:linear-gradient(90deg, rgba(11,58,83,.88) 0%, rgba(11,58,83,0) 72%);
   }
   .hero-text{
     position:absolute; left:40px; top:50%; transform:translateY(-50%); color:#fff; z-index:2;
@@ -223,7 +216,7 @@
 
     <!-- HERO -->
     <section class="hero">
-      <img src="assets/Big%20ATL.jpg" alt="Angler holding a large adult Atlantic Salmon caught on Lake Ontario.">
+      <img src="assets/hero-wide.jpg" alt="Angler holding a large adult Atlantic Salmon caught on Lake Ontario.">
       <div class="hero-text">
         <div class="hero-kicker">The return of a Lake Ontario icon</div>
         <h1>Restoring<br>Atlantic Salmon<br>to Lake Ontario</h1>
